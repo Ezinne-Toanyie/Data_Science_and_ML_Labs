@@ -211,9 +211,9 @@ The following string methods were explored:
 
 ```
 Week_3
+ ┣ Data Structures- Part 2.ipynb
  ┣ README.md
- ┣ Data_Structures_-_Part_2.ipynb
- ┗ String_and_Dataflow.ipynb
+ ┗ String and Dataflow.ipynb
 ```
 
 ---
