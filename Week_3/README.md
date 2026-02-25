@@ -1,7 +1,7 @@
-# Week 3 - Data Structures in Python (Part 2) & String Operations
+# Week 3 - Data Structures(Part 2) & String Operations
 **Program:** Data Science & Machine Learning
 
-**Labs:** Data Structures – Operators | String Methods & Dataflow
+**Labs:** Data Structures - Operators | String Methods & Dataflow
 
 ---
 
@@ -28,7 +28,7 @@ The labs were divided into two notebooks, each covering a distinct set of Python
 
 ---
 
-### 📘 Notebook 1: Data Structures – Part 2: Operators
+### 📘 Notebook 1: Data Structures(Part 2): Operators
 
 #### 1. Arithmetic Operators
 
@@ -36,20 +36,21 @@ Arithmetic operators perform standard mathematical calculations on numeric value
 
 | Operator | What It Does |
 |---|---|
-| `+` | Addition — returns the sum of values |
-| `-` | Subtraction — returns the difference between values |
-| `*` | Multiplication — returns the product of values |
-| `/` | Division — always returns a float, even for whole-number results |
-| `//` | Floor Division — divides and discards the remainder, returning an integer |
-| `%` | Modulo — returns only the remainder after division |
-| `**` | Exponentiation — raises a number to the power of another |
+| `+` | Addition - returns the sum of values |
+| `-` | Subtraction - returns the difference between values |
+| `*` | Multiplication - returns the product of values |
+| `/` | Division - always returns a float, even for whole-number results |
+| `//` | Floor Division - divides and discards the remainder, returning an integer |
+| `%` | Modulo - returns only the remainder after division |
+| `**` | Exponentiation - raises a number to the power of another |
 
 
 **Commands Executed:**
 
-```python
->[Arithmetic_Operators_1] (https://i.postimg.cc/yxbF6JpK/Arithmetic-operators-1.png)
-```
+>  ![Arithmetic Operators 1](https://i.postimg.cc/yxbF6JpK/Arithmetic-operators-1.png)
+>  ![Arithmetic Operators 2](https://i.postimg.cc/fLZQzCJ3/Arithmetic-operators-2.png)
+>  ![Arithmetic Operators 3](https://i.postimg.cc/ht7kV6my/Arithmetic-operators-3.png)
+>  ![Arithmetic Operators 4](https://i.postimg.cc/5NXTMTn3/Arithmetic-operators-4.png)
 
 ---
 
@@ -68,9 +69,9 @@ Comparison operators evaluate two values and return a boolean result (`True` or 
 
 **Commands Executed:**
 
-```python
-# Add your screenshots or code snippets here
-```
+>  ![Comparison Operators 1](https://i.postimg.cc/FRt37d40/Comparison-1.png)
+>  ![Comparison Operators 1](https://i.postimg.cc/26zvQp1z/Comparison.png)  
+>  ![Comparison Operators 3](https://i.postimg.cc/7hjkkk76/Comparison-3.png)
 
 ---
 
@@ -86,9 +87,8 @@ Logical operators combine multiple conditions and return a single boolean result
 
 **Commands Executed:**
 
-```python
-# Add your screenshots or code snippets here
-```
+>  ![Logical Operators 1](https://i.postimg.cc/tgfJgLhy/Logical-1.png)
+>  ![Logical Operators 2](https://i.postimg.cc/43r4GpT0/Logical-2.png)
 
 ---
 
@@ -107,9 +107,10 @@ Assignment operators update a variable's value by performing an operation and re
 
 **Commands Executed:**
 
-```python
-# Add your screenshots or code snippets here
-```
+>  ![Assignment Operators 1](https://i.postimg.cc/8PrHPSMF/Assignment-1.png)
+>  ![Assignment Operators 2](https://i.postimg.cc/d11RMPwb/Assignment-2.png)
+>  ![Assignment Operators 3](https://i.postimg.cc/wvZw0TLf/Assignment-3.png)
+>  ![Assignment Operators 4](https://i.postimg.cc/KvzYnGJv/Assignment-4.png)
 
 ---
 
@@ -128,9 +129,10 @@ Bitwise operators work on the binary representation of integers. Python's `bin()
 
 **Commands Executed:**
 
-```python
-# Add your screenshots or code snippets here
-```
+>  ![Bitwise Operators 1](https://i.postimg.cc/8cnfhjvP/Bitwise-1.png)
+>  ![Bitwise Operators 2](https://i.postimg.cc/L40JQgqS/Bitwise-2.png)
+>  ![Bitwise Operators 3](https://i.postimg.cc/Y0Jqrggb/Bitwise-3.png)
+>  ![Bitwise Operators 4](https://i.postimg.cc/fLPMCX8H/Bitwise-4.png)
 
 ---
 
@@ -140,9 +142,7 @@ Membership operators check whether a value exists within a sequence such as a li
 
 **Commands Executed:**
 
-```python
-# Add your screenshots or code snippets here
-```
+>  ![Membership Operators](https://i.postimg.cc/4y82VbwX/Membership-Operators.png)
 
 ---
 
@@ -154,15 +154,13 @@ Identity operators check whether two variables point to the **same object in mem
 
 **Commands Executed:**
 
-```python
-# Add your screenshots or code snippets here
-```
+>  ![Identity Operators](https://i.postimg.cc/QN6f6mkb/Identity-operators.png)
 
 ---
 
 ### 📗 Notebook 2: String Methods & Dataflow
 
-A **string** is a sequence of characters used to represent text. Strings in Python are immutable — operations on them return new strings rather than modifying the original.
+A **string** is a sequence of characters used to represent text. Strings in Python are immutable; operations on them return new strings rather than modifying the original.
 
 The following string methods were explored:
 
@@ -177,12 +175,6 @@ The following string methods were explored:
 | `islower()` | Returns `True` if all characters are lowercase |
 | `isupper()` | Returns `True` if all characters are uppercase |
 
-**Commands Executed:**
-
-```python
-# Add your screenshots or code snippets here
-```
-
 #### Manipulation & Search Methods
 
 | Method | What It Does |
@@ -195,31 +187,23 @@ The following string methods were explored:
 
 **Commands Executed:**
 
-```python
-# Add your screenshots or code snippets here
-```
-
-**Commands Executed:**
-
-```python
-# Add your screenshots or code snippets here
-```
-
-> **Note:** String methods like `isalpha()` are case-sensitive and space-sensitive. `"ParoCyber LLC"` returns `False` for `isalpha()` because it contains a space.
+>  ![STRING_1](https://i.postimg.cc/XYFSSmQf/String-1.png)
+>  ![STRING_2](https://i.postimg.cc/Prp0Y0sq/String-2.png)
+>  ![STRING_3](https://i.postimg.cc/D0tjxykw/String-3.png)
+>  ![STRING_4](https://i.postimg.cc/K4SfnqBZ/String-4.png)
+>  ![STRING_5](https://i.postimg.cc/sDdbPwV2/String-5.png)
+>  ![STRING_6](https://i.postimg.cc/rmRYxt3b/String-6.png)
 
 ---
 
 ## Key Observations & Lessons Learned
 
-- Arithmetic operators follow standard mathematical precedence — use parentheses to control evaluation order where needed.
+- Arithmetic operators follow standard mathematical order. Use parentheses() to control evaluation order where needed.
 - Standard division `/` always returns a float; use `//` when integer output is required, and `%` to capture the remainder.
-- Logical operators (`and`, `or`, `not`) are the foundation of conditional logic and data filtering in Python.
-- Assignment operators make code more concise and are commonly used in loops and iterative calculations.
-- Bitwise operators work at the binary level and are particularly useful in low-level data manipulation, networking, and certain algorithmic problems.
-- Identity operators (`is` / `is not`) test memory location, not value equality — two objects can be equal in value but distinct in memory.
-- String methods do not modify the original string; they return a new one. This reinforces the concept of string immutability.
-- `isalpha()` returns `False` for strings containing spaces, numbers, or special characters — a common source of confusion when validating text data.
-- `split()` and `join()` are complementary methods that convert between strings and lists, which is fundamental for text parsing and data wrangling tasks.
+- Bitwise operators work at the binary level.
+- Identity operators (`is` / `is not`) test memory location not value equality; two objects can be equal in value but distinct in memory.
+- String methods do not modify the original string; they return a new one.
+- `isalpha()` returns `False` for strings containing spaces, numbers, or special characters.
 
 ---
 
