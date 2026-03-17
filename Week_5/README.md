@@ -39,6 +39,8 @@ Arrays can be created from Python lists as 1-Dimensional or 2-Dimensional struct
 >  ![numpy_1](https://i.postimg.cc/VNsPr4Nc/numpy-1.png)
 >  ![numpy_2](https://i.postimg.cc/sgctrSJf/numpy-2.png)
 
+
+
 **Array Attributes**
 
 | Attribute | What It Returns |
@@ -47,9 +49,18 @@ Arrays can be created from Python lists as 1-Dimensional or 2-Dimensional struct
 | `.size` | Total number of elements |
 | `.dtype` | Data type of the elements |
 
+>  ![array_shape](https://i.postimg.cc/5yQD8Rvp/shape-size.png)
+>  ![array_datatype](https://i.postimg.cc/x1QTTvDp/datatype.png)
+
+
+
 **Array Operations**
 
 Basic math (+, −, ×) applies to every element in the array at once. No need to loop through each item.
+
+>  ![array_ops](https://i.postimg.cc/gkWPvGS3/array-operations-1.png)
+
+
 
 **Aggregation Functions**
 
@@ -59,9 +70,17 @@ Basic math (+, −, ×) applies to every element in the array at once. No need t
 | `.max()` | Returns the largest value |
 | `.min()` | Returns the smallest value |
 
+>  ![array_aggregation](https://i.postimg.cc/6pqbZSXL/numpy-aggregation.png)
+
+
+
 **Indexing & Slicing**
 
 Use `[row_start:row_end, col_start:col_end]` to select specific rows and columns from an array.
+
+>  ![array_indexing](https://i.postimg.cc/TwVtGvr0/numpy-indexing.png)
+
+
 
 **Array Manipulation**
 
@@ -72,9 +91,19 @@ Use `[row_start:row_end, col_start:col_end]` to select specific rows and columns
 | `np.append()` | Adds values to the end of an array |
 | `np.delete()` | Removes an element at a given index |
 
+>  ![array_reshape](https://i.postimg.cc/fRYt8WDs/reshaping.png)
+>  ![array_conc](https://i.postimg.cc/XJ1prpcC/conc-arrays.png)
+>  ![array_delete](https://i.postimg.cc/jjs5vzMx/deleting-array.png)
+
+
+
 **Broadcasting**
 
 Broadcasting lets NumPy apply an operation between arrays of different sizes. It automatically stretches the smaller value to match the larger array. No manual reshaping is needed.
+
+>  ![broadcasting](https://i.postimg.cc/hhW4mxJP/Broadcasting.png)
+
+
 
 **Random Number Generation**
 
@@ -85,9 +114,21 @@ Broadcasting lets NumPy apply an operation between arrays of different sizes. It
 | `np.random.randn()` | Random numbers from a normal distribution |
 | `np.random.choice()` | Randomly picks items from an array |
 
+>  ![random_1](https://i.postimg.cc/nz9CQnd5/random-number-generation.png)
+>  ![random_2](https://i.postimg.cc/kgj412zc/random-numbers-2.png)
+
+
+
 **Linear Algebra**
 
 NumPy supports standard matrix operations: addition, subtraction, element-wise multiplication, matrix multiplication (`@` or `np.matmul()`), dot product (`np.dot()`), transpose (`np.transpose()`), inverse (`np.linalg.inv()`), determinant (`np.linalg.det()`), and identity matrix (`np.eye()`).
+
+>  ![linalg-1](https://i.postimg.cc/nVYnSsQ3/linalg-1.png)
+>  ![linalg-2](https://i.postimg.cc/wBmpX3p7/linalg-2.png)
+>  ![linalg-3](https://i.postimg.cc/8PzgyZGk/linalg-3.png)
+>  ![linalg-4](https://i.postimg.cc/25vsqJQb/linalg-4.png)
+
+
 
 **Statistical Functions**
 
@@ -97,6 +138,9 @@ NumPy supports standard matrix operations: addition, subtraction, element-wise m
 | `np.median()` | Finds the middle value |
 | `np.std()` | Measures how spread out the values are |
 | `stats.mode()` | Finds the most frequent value (requires `scipy.stats`) |
+
+>  ![stats_1](https://i.postimg.cc/WbHC5jSh/stats-1.png)
+>  ![stats_2](https://i.postimg.cc/qq7DGZ32/stats-2.png)
 
 ---
 
