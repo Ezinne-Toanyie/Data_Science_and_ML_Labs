@@ -35,8 +35,10 @@ String formatting allows text and variable values to be combined into clean, rea
 
 - **Concatenation** using the `+` operator; requires explicit type conversion with `str()` for non-string values.
 - **f-strings (Formatted String Literals)**: the modern, preferred method. Variables are embedded directly inside `{}` within a string prefixed with `f`.
+  >  ![String_formatting_1](https://i.postimg.cc/VkGMDPGH/String-1.png)
 - **`.format()` method**: a flexible approach using placeholders `{}` that can be filled by position index, sequential order, or named keyword assignments.
-
+  >  ![String_formatting_2](https://i.postimg.cc/NfLQRhXb/string-2.png)
+  >  ![String_formatting_3](https://i.postimg.cc/mrjndkfH/string-3.png)
 ---
 
 ### 2. Control Flow
@@ -53,12 +55,21 @@ Control flow structures allow a program to make decisions and repeat actions bas
 | `if-elif-else` | Tests multiple conditions in sequence; runs the first match |
 | Ternary Operator | Writes a simple `if-else` on a single line |
 
+>  ![Control_flow_1](https://i.postimg.cc/dVr3TPMz/control-flow-1.png)
+>  ![Control_flow_2](https://i.postimg.cc/kgg9q0Jq/if-elif-else.png)
+>  ![Control_flow_3](https://i.postimg.cc/D0w58P8G/nested-if.png)
+>  ![Tenary_operators](https://i.postimg.cc/s22pPgVz/tenary-operators.png)
+
+
 **Loops:**
 
 | Loop | Behaviour |
 |---|---|
 | `for` loop | Iterates over each element in a sequence (list, dictionary, range, etc.) |
 | `while` loop | Repeats a block of code as long as a condition remains `True` |
+>  ![For_loop](https://i.postimg.cc/d1HNRfM4/for-loop.png)
+>  ![For_loop_2](https://i.postimg.cc/V6xGHC6B/for-loop-2.png)
+>  ![While_loop](https://i.postimg.cc/Pr4y1cmC/while-loop.png)
 
 Practical loop examples included: filtering even numbers from a list, iterating over dictionary key-value pairs, computing a running total, and printing indexed list items.
 
@@ -69,8 +80,11 @@ Practical loop examples included: filtering even numbers from a list, iterating 
 A **function** is a reusable block of code that performs a specific task. Functions reduce repetition and make code easier to read and maintain.
 
 **Standard Functions** are defined using the `def` keyword, can accept parameters, and return values using `return`. A function can return multiple values as a tuple, which are then accessed by index.
+>  ![Function_1](https://i.postimg.cc/G26L7qGG/function-1.png)
+>  ![Function_2](https://i.postimg.cc/q7Rpp9GF/function-2.png)
 
 **Lambda Functions** are compact, single-expression functions defined inline using the `lambda` keyword, also called anonymous functions. They are best suited for short operations that don't require a full `def` block.
+>  ![Lambda_function](https://i.postimg.cc/4NgZYK59/lambda.png)
 
 **Some Built-in Functions** explored:
 
@@ -91,12 +105,16 @@ A **function** is a reusable block of code that performs a specific task. Functi
 **Pandas** is a Python library built for data manipulation and analysis. It introduces two primary data structures:
 
 **Series**: a one-dimensional labelled array that can hold any data type. When a list contains mixed data types, Pandas assigns the output dataype as `object`.
+>  ![Series](https://i.postimg.cc/rwTSZ99w/pd-1.png)
 
 **DataFrame**: a two-dimensional labelled structure with rows and columns, similar to a spreadsheet or SQL table. DataFrames are created from Python dictionaries, where each key becomes a column name and its list of values forms the column data.
+>  ![Dataframe](https://i.postimg.cc/wjFsfYvD/df-1.png)
 
 **Data Manipulation - Indexing & Slicing:**
 - **Indexing** accesses a single element using its position (e.g., `s[0]`) or column name (e.g., `users['name'][2]`).
 - **Slicing** retrieves a range of elements or a subset of columns from a DataFrame.
+  
+  >  ![Indexing_slicing](https://i.postimg.cc/pVZxnW1S/indexing-slicing.png)
 
 **Data Combination - Concatenation:**
 
@@ -108,6 +126,9 @@ Pandas `pd.concat()` combines multiple DataFrames into one.
 | Horizontal (`axis=1`) | Joins DataFrames column-by-column (left to right) |
 | `keys` parameter | Labels each source DataFrame in the resulting multi-index |
 | `ignore_index=True` | Resets the index after concatenation instead of preserving source labels |
+
+>  ![vert_conc](https://i.postimg.cc/wjkbwMLP/vertical-conc.png)
+>  ![hor_conc](https://i.postimg.cc/yxwTN49r/horizontal-conc.png)
 
 After vertical concatenation with `keys`, rows can be accessed by label using `.loc[]`, and sliced across columns using label-based range notation.
 
