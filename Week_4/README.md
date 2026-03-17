@@ -102,7 +102,20 @@ A **function** is a reusable block of code that performs a specific task. Functi
 
 ### 4. Introduction to Pandas
 
-**Pandas** is a Python library built for data manipulation and analysis. It introduces two primary data structures:
+**Pandas** is a Python library built for data manipulation and analysis. 
+#### **Data Importing**
+
+Data is loaded into Pandas using:
+
+* `pd.read_csv()` → Import CSV files
+  >  ![Import_csv](https://i.postimg.cc/xTdCfx3K/import-pd-1.png)
+* `pd.read_excel()` → Import Excel files
+  >  ![Import_xlsx](https://i.postimg.cc/Lsj4CrmJ/import-pd-2.png)
+
+This is the first step in any real-world data analysis workflow.
+
+  
+Pandas has two primary data structures:
 
 **Series**: a one-dimensional labelled array that can hold any data type. When a list contains mixed data types, Pandas assigns the output dataype as `object`.
 >  ![Series](https://i.postimg.cc/rwTSZ99w/pd-1.png)
@@ -110,6 +123,29 @@ A **function** is a reusable block of code that performs a specific task. Functi
 **DataFrame**: a two-dimensional labelled structure with rows and columns, similar to a spreadsheet or SQL table. DataFrames are created from Python dictionaries, where each key becomes a column name and its list of values forms the column data.
 >  ![Dataframe](https://i.postimg.cc/wjFsfYvD/df-1.png)
 
+
+**Data Cleaning & Preparation**
+
+Data cleaning ensures the dataset is accurate and usable for analysis. It involves:
+-  Handling missing values (e.g., filling or dropping nulls)
+-  Converting data types for consistency
+-  Removing duplicates or incorrect entries
+-  Handling missing values
+-  Converting data types where necessary
+>  ![handling_null_values_1](https://i.postimg.cc/k5GzDShk/handling-missing-values.png)
+>  ![handling_null_values_2](https://i.postimg.cc/HLFZxhMw/handing-missing-values-2.png)
+
+**Data Aggregation**
+
+Data aggregation summarizes data to extract meaningful insights.
+-  Grouping data using groupby()
+-  Applying summary functions like sum, mean, count
+-  Comparing metrics across categories
+>  ![grouping](https://i.postimg.cc/Ss0dqz08/grouping.png)
+
+-Filtering data based on certain criteria
+>  ![filterimg](https://i.postimg.cc/TwXVBMmk/filtering.png)
+  
 **Data Manipulation - Indexing & Slicing:**
 - **Indexing** accesses a single element using its position (e.g., `s[0]`) or column name (e.g., `users['name'][2]`).
 - **Slicing** retrieves a range of elements or a subset of columns from a DataFrame.
