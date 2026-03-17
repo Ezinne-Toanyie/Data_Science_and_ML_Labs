@@ -112,7 +112,16 @@ Data is loaded into Pandas using:
 * `pd.read_excel()` → Import Excel files
   >  ![Import_xlsx](https://i.postimg.cc/Lsj4CrmJ/import-pd-2.png)
 
-This is the first step in any real-world data analysis workflow.
+#### **Data Inspection**
+
+Imported data is inspected using:
+
+* `df.head()` to check the first 5 rows of the dataset
+  >  ![df.head](https://i.postimg.cc/nV7M2w3H/df-head.png)
+* `df.tail()` to check the last 5 rows of the dataset
+
+These are the first steps in any real-world data analysis workflow.
+
 
   
 Pandas has two primary data structures:
