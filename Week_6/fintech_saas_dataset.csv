@@ -1,0 +1,1001 @@
+customer_id,subscription_tier,monthly_fee,tenure_months,num_transactions,avg_transaction_value,active_users,churned,customer_support_tickets,region,marketing_channel,monthly_revenue
+1,Enterprise,50.0,2.0,79,26.86,29,0,5,Africa,Organic,1450
+2,Basic,50.0,50.0,53,174.18,30,0,3,Asia,Referral,1500
+3,Enterprise,250.0,6.0,338,318.29,10,1,0,Asia,Partnership,2500
+4,Enterprise,100.0,9.0,310,39.17,39,0,6,Africa,Referral,3900
+5,Basic,25.0,33.0,237,7.8,28,1,8,Africa,Referral,700
+6,Basic,100.0,41.0,193,468.86,49,0,7,,Paid Ads,4900
+7,Enterprise,100.0,,116,411.85,36,0,4,North America,Partnership,3600
+8,Pro,50.0,48.0,93,405.55,13,0,18,Europe,Partnership,650
+9,Enterprise,100.0,13.0,347,442.79,32,0,9,Asia,Partnership,3200
+10,Enterprise,10.0,9.0,259,351.52,36,0,10,North America,Paid Ads,360
+11,Enterprise,50.0,53.0,372,56.68,37,0,14,,,1850
+12,Enterprise,10.0,13.0,450,202.55,26,0,5,Africa,Partnership,260
+13,Basic,25.0,,30,362.96,22,0,14,Europe,Referral,550
+14,Enterprise,50.0,41.0,205,143.77,4,0,4,,,200
+15,Pro,25.0,11.0,187,345.27,31,0,18,North America,Partnership,775
+16,Basic,50.0,4.0,426,17.13,18,0,18,,Organic,900
+17,Pro,250.0,,484,156.54,38,0,9,Europe,Organic,9500
+18,Pro,100.0,,16,276.82,24,0,11,North America,Partnership,2400
+19,Pro,,46.0,79,317.88,23,0,3,Asia,Organic,5750
+20,Pro,25.0,4.0,136,290.64,22,0,17,North America,Paid Ads,550
+21,Basic,100.0,38.0,408,350.39,2,0,15,North America,Referral,200
+22,Basic,50.0,19.0,475,8.01,31,1,7,North America,Paid Ads,1550
+23,Pro,,6.0,169,54.97,11,1,3,,Referral,1100
+24,Pro,10.0,,257,435.13,28,0,11,Africa,Organic,280
+25,Basic,100.0,18.0,212,342.47,46,0,1,North America,Organic,4600
+26,Basic,10.0,13.0,157,60.9,32,0,3,Europe,Partnership,320
+27,Basic,100.0,41.0,481,421.83,5,0,4,Asia,Organic,500
+28,Enterprise,10.0,23.0,152,124.9,38,1,2,,Organic,380
+29,Enterprise,25.0,19.0,441,241.74,10,0,8,North America,Partnership,250
+30,Enterprise,250.0,45.0,208,76.87,40,0,17,Europe,Partnership,10000
+31,Pro,50.0,11.0,414,356.5,46,0,10,North America,Referral,2300
+32,Enterprise,100.0,1.0,435,335.09,24,0,2,Asia,Organic,2400
+33,Pro,250.0,24.0,163,109.5,35,0,1,Europe,Referral,8750
+34,Pro,50.0,54.0,385,,44,0,8,Europe,Referral,2200
+35,Enterprise,50.0,7.0,393,203.65,48,1,13,,Paid Ads,2400
+36,Pro,10.0,25.0,151,149.79,23,0,3,North America,Organic,230
+37,Enterprise,25.0,21.0,322,80.4,17,0,8,Africa,Organic,425
+38,Enterprise,25.0,15.0,174,136.75,1,1,12,North America,Paid Ads,25
+39,Basic,250.0,1.0,323,15.9,31,0,17,North America,,7750
+40,Enterprise,,12.0,30,293.71,31,1,14,,Organic,775
+41,Basic,100.0,58.0,91,421.9,42,1,9,,Referral,4200
+42,,25.0,7.0,78,276.75,42,0,15,North America,Paid Ads,1050
+43,Enterprise,250.0,15.0,140,113.54,34,0,11,Africa,Partnership,8500
+44,Basic,25.0,21.0,96,21.67,9,0,19,Asia,Referral,225
+45,Basic,100.0,19.0,227,111.24,22,1,4,Asia,Organic,2200
+46,Enterprise,10.0,29.0,430,210.98,13,0,1,North America,Partnership,130
+47,Pro,250.0,25.0,481,381.01,25,0,9,North America,Referral,6250
+48,Basic,10.0,33.0,314,97.98,48,1,0,Africa,Referral,480
+49,Pro,10.0,49.0,412,361.3,18,1,6,Africa,Partnership,180
+50,Pro,10.0,32.0,380,434.13,12,1,16,,Partnership,120
+51,Pro,50.0,49.0,354,229.7,40,0,15,Europe,Partnership,2000
+52,Basic,50.0,35.0,350,411.61,17,1,2,North America,,850
+53,Pro,10.0,44.0,393,279.56,15,0,13,,Organic,150
+54,Basic,250.0,38.0,405,320.36,42,1,9,Europe,Referral,10500
+55,Pro,100.0,26.0,454,265.51,15,0,6,Africa,Referral,1500
+56,Enterprise,100.0,11.0,434,234.27,15,0,16,,Paid Ads,1500
+57,Enterprise,25.0,35.0,170,,39,0,5,North America,Organic,975
+58,Basic,250.0,8.0,187,155.08,13,0,3,Africa,Referral,3250
+59,Enterprise,50.0,46.0,126,148.54,17,0,16,Europe,Partnership,850
+60,,10.0,14.0,205,283.83,32,0,8,Africa,Partnership,320
+61,Pro,25.0,10.0,392,64.38,9,0,3,Asia,Organic,225
+62,Basic,100.0,2.0,499,458.81,40,0,6,North America,Partnership,4000
+63,Pro,50.0,46.0,336,361.72,20,1,1,Asia,,1000
+64,Pro,,9.0,95,203.72,26,0,16,Africa,Referral,1300
+65,,10.0,3.0,298,83.52,27,0,7,North America,Referral,270
+66,Pro,100.0,21.0,90,441.59,21,0,14,Asia,Referral,2100
+67,Pro,250.0,26.0,161,412.77,18,0,14,Asia,,4500
+68,Pro,50.0,8.0,70,362.25,13,0,7,Europe,Partnership,650
+69,Pro,10.0,48.0,70,139.42,16,0,15,North America,Paid Ads,160
+70,Basic,250.0,2.0,363,,9,0,18,Asia,Organic,2250
+71,Enterprise,100.0,6.0,37,55.86,12,1,10,Asia,Referral,1200
+72,Pro,50.0,28.0,451,98.57,44,1,1,Europe,Paid Ads,2200
+73,Pro,,53.0,52,392.59,38,0,16,Asia,,9500
+74,,250.0,29.0,178,358.94,19,1,15,Asia,,4750
+75,Pro,250.0,26.0,432,298.78,7,0,14,Asia,Organic,1750
+76,Pro,50.0,25.0,95,448.38,35,0,12,Europe,Referral,1750
+77,Pro,50.0,,186,293.72,48,0,14,Asia,Paid Ads,2400
+78,,25.0,5.0,26,236.15,18,0,3,Asia,Referral,450
+79,Enterprise,100.0,,107,173.48,16,0,15,North America,Partnership,1600
+80,Pro,,48.0,463,470.52,39,0,11,North America,Referral,390
+81,,250.0,37.0,207,45.94,4,0,3,Europe,Organic,1000
+82,Basic,,15.0,107,465.79,25,0,2,Africa,Paid Ads,625
+83,Pro,10.0,44.0,74,,32,0,16,North America,Organic,320
+84,Basic,25.0,36.0,339,69.32,40,0,17,Europe,Partnership,1000
+85,Basic,50.0,15.0,350,284.67,13,0,17,,Referral,650
+86,,250.0,43.0,14,433.94,45,0,16,Asia,Organic,11250
+87,Enterprise,10.0,48.0,11,288.05,17,0,11,Europe,Organic,170
+88,Basic,10.0,23.0,31,454.06,49,0,3,Asia,Organic,490
+89,Pro,,6.0,121,471.78,37,1,11,Asia,Organic,370
+90,Basic,,46.0,66,,6,0,19,Africa,Partnership,60
+91,Basic,10.0,50.0,75,191.77,19,0,14,Asia,Partnership,190
+92,Basic,25.0,44.0,339,468.48,13,0,15,North America,Referral,325
+93,Basic,250.0,59.0,107,,26,0,4,Asia,Referral,6500
+94,Enterprise,50.0,43.0,153,62.43,14,0,14,Europe,Paid Ads,700
+95,Basic,50.0,45.0,377,25.93,31,0,16,Africa,Partnership,1550
+96,,50.0,21.0,444,284.49,4,0,17,Asia,Organic,200
+97,Basic,50.0,23.0,134,465.43,39,0,4,Europe,Organic,1950
+98,Enterprise,25.0,43.0,176,422.9,8,0,12,North America,Paid Ads,200
+99,Basic,100.0,55.0,95,339.54,25,0,18,,Organic,2500
+100,Basic,,16.0,85,73.86,13,0,12,,Paid Ads,3250
+101,Enterprise,10.0,47.0,353,130.84,32,0,17,,Referral,320
+102,Enterprise,100.0,,433,438.38,38,0,13,Europe,Partnership,3800
+103,Enterprise,50.0,15.0,303,95.49,38,0,3,Africa,Paid Ads,1900
+104,Basic,100.0,25.0,453,142.83,28,0,3,Asia,Organic,2800
+105,Enterprise,250.0,36.0,68,69.15,30,0,19,North America,Paid Ads,7500
+106,Enterprise,10.0,11.0,147,339.67,3,0,19,Africa,Referral,30
+107,Basic,10.0,51.0,108,472.27,28,0,18,North America,Organic,280
+108,Enterprise,250.0,,201,138.14,3,1,12,Europe,,750
+109,Basic,250.0,4.0,252,240.33,45,0,11,Asia,Referral,11250
+110,Pro,50.0,21.0,328,319.0,34,1,6,North America,Paid Ads,1700
+111,Enterprise,10.0,13.0,58,499.74,16,0,11,Europe,Referral,160
+112,Pro,100.0,22.0,457,56.88,22,0,3,,Organic,2200
+113,Basic,25.0,,41,251.79,32,0,1,Europe,Referral,800
+114,Enterprise,25.0,34.0,400,195.63,38,0,1,North America,Referral,950
+115,Basic,250.0,14.0,286,433.58,8,0,4,Europe,,2000
+116,Pro,50.0,4.0,29,240.6,8,0,9,Africa,Referral,400
+117,Basic,25.0,,163,59.93,6,0,9,,,150
+118,,,53.0,392,319.04,14,0,8,Europe,Paid Ads,140
+119,Enterprise,250.0,,77,386.54,32,0,12,North America,Paid Ads,8000
+120,Pro,100.0,46.0,375,6.43,35,1,6,Asia,Organic,3500
+121,Basic,250.0,,381,430.18,10,0,4,Africa,Organic,2500
+122,Enterprise,100.0,29.0,223,97.08,3,0,9,Asia,Organic,300
+123,Pro,250.0,,152,,12,0,9,,Organic,3000
+124,Enterprise,250.0,28.0,385,210.82,49,0,5,Asia,Partnership,12250
+125,Enterprise,250.0,,241,361.23,31,0,18,Europe,Paid Ads,7750
+126,Basic,100.0,8.0,222,188.72,29,1,7,Europe,Referral,2900
+127,,100.0,16.0,88,435.53,5,0,0,,Organic,500
+128,Basic,250.0,42.0,223,366.6,25,0,16,Africa,Organic,6250
+129,Enterprise,25.0,36.0,125,,41,0,6,North America,Organic,1025
+130,Pro,50.0,30.0,101,,31,1,13,Europe,Referral,1550
+131,Enterprise,50.0,,279,378.24,21,0,16,Africa,Organic,1050
+132,Basic,50.0,2.0,420,22.79,20,0,8,North America,Referral,1000
+133,Basic,,49.0,390,200.39,39,1,16,North America,Paid Ads,3900
+134,Pro,100.0,13.0,498,465.75,22,0,4,North America,Paid Ads,2200
+135,Enterprise,25.0,4.0,177,67.23,4,1,19,,Paid Ads,100
+136,Enterprise,50.0,,67,,13,0,7,North America,Partnership,650
+137,Pro,50.0,25.0,293,487.42,45,0,5,Africa,Referral,2250
+138,Enterprise,250.0,30.0,35,30.84,42,0,10,North America,Organic,10500
+139,Enterprise,,11.0,378,342.69,49,0,18,Africa,Organic,4900
+140,,50.0,7.0,456,236.74,20,1,3,North America,,1000
+141,Enterprise,25.0,31.0,75,291.69,13,0,17,Europe,,325
+142,Enterprise,25.0,44.0,418,47.24,17,0,0,Europe,Partnership,425
+143,Pro,50.0,,257,26.29,36,0,12,North America,Organic,1800
+144,Pro,100.0,39.0,263,335.1,33,0,13,Asia,Partnership,3300
+145,Basic,25.0,13.0,396,412.54,1,0,0,Europe,Referral,25
+146,Enterprise,250.0,31.0,465,392.1,15,0,10,Africa,Paid Ads,3750
+147,Enterprise,25.0,7.0,53,274.18,13,0,16,North America,,325
+148,,,56.0,106,54.43,17,0,3,Africa,Paid Ads,170
+149,Basic,10.0,49.0,51,345.58,24,0,11,,Referral,240
+150,Basic,100.0,42.0,236,124.73,8,0,9,North America,Referral,800
+151,Pro,50.0,42.0,271,455.98,27,0,5,Europe,Organic,1350
+152,Basic,100.0,56.0,176,419.94,45,1,0,Africa,Referral,4500
+153,Enterprise,100.0,36.0,445,,23,1,6,Europe,Paid Ads,2300
+154,Enterprise,100.0,20.0,288,474.68,46,0,15,,Organic,4600
+155,Basic,100.0,4.0,98,20.55,8,0,13,North America,Partnership,800
+156,,250.0,54.0,388,369.42,8,0,19,Africa,Organic,2000
+157,Enterprise,250.0,7.0,187,168.47,26,0,19,Asia,Paid Ads,6500
+158,,25.0,54.0,436,453.5,47,0,5,Europe,Organic,1175
+159,Basic,10.0,1.0,412,137.0,13,0,4,North America,Organic,130
+160,Enterprise,,,206,363.8,39,0,17,North America,Paid Ads,3900
+161,Enterprise,25.0,,316,439.44,37,1,14,Asia,,925
+162,Enterprise,10.0,45.0,276,25.62,49,0,5,North America,Organic,490
+163,Pro,50.0,42.0,277,201.84,28,0,18,Europe,,1400
+164,Pro,250.0,47.0,83,382.34,25,0,0,North America,,6250
+165,Pro,,59.0,17,230.18,16,0,0,Africa,Paid Ads,160
+166,Basic,50.0,13.0,417,137.29,2,1,12,Africa,Organic,100
+167,Pro,10.0,55.0,485,113.8,18,0,2,Europe,Partnership,180
+168,Basic,250.0,22.0,306,,17,0,9,Africa,Partnership,4250
+169,,,54.0,173,429.28,30,0,2,Asia,Paid Ads,7500
+170,Pro,25.0,21.0,494,289.8,39,0,8,North America,Partnership,975
+171,Pro,,22.0,94,,13,0,7,Europe,Organic,1300
+172,Pro,10.0,28.0,81,,32,1,2,Asia,Organic,320
+173,Enterprise,10.0,9.0,64,187.03,29,1,12,North America,Paid Ads,290
+174,Pro,50.0,26.0,402,94.96,46,0,5,Asia,Organic,2300
+175,Enterprise,250.0,9.0,56,220.58,30,0,12,Europe,Referral,7500
+176,Basic,10.0,15.0,408,169.39,18,1,19,Europe,Organic,180
+177,Enterprise,250.0,,441,174.19,13,0,19,Asia,Paid Ads,3250
+178,Pro,10.0,24.0,247,370.82,43,0,11,North America,Referral,430
+179,Basic,25.0,58.0,113,115.52,21,0,12,Africa,Referral,525
+180,Basic,,57.0,219,322.72,30,0,1,Africa,Partnership,3000
+181,Basic,10.0,42.0,51,287.47,21,0,15,Asia,Organic,210
+182,Enterprise,250.0,8.0,325,286.21,48,0,5,Europe,Paid Ads,12000
+183,Pro,25.0,24.0,477,333.19,17,0,18,North America,Partnership,425
+184,,10.0,16.0,463,276.45,40,0,12,North America,Partnership,400
+185,,50.0,49.0,277,440.23,19,0,16,Europe,Organic,950
+186,,100.0,,395,339.41,15,1,8,Africa,Organic,1500
+187,Enterprise,10.0,27.0,272,275.75,9,1,16,,Paid Ads,90
+188,Enterprise,,37.0,345,415.73,10,1,1,Asia,Partnership,250
+189,Pro,50.0,4.0,396,305.04,44,0,18,Africa,Paid Ads,2200
+190,Enterprise,25.0,50.0,374,149.12,31,0,18,Asia,Partnership,775
+191,Basic,25.0,24.0,268,107.51,23,0,6,Africa,Partnership,575
+192,Pro,50.0,19.0,292,80.4,30,0,9,,Partnership,1500
+193,Basic,25.0,36.0,123,450.23,33,0,9,Asia,Organic,825
+194,Basic,50.0,39.0,372,,9,0,19,Asia,Partnership,450
+195,Enterprise,10.0,10.0,49,469.0,47,0,8,Europe,Partnership,470
+196,Pro,50.0,25.0,495,,1,1,16,Asia,Partnership,50
+197,Enterprise,50.0,18.0,426,239.33,44,0,14,,Referral,2200
+198,Enterprise,100.0,19.0,229,34.56,35,0,1,North America,Organic,3500
+199,Pro,50.0,36.0,138,337.46,11,0,3,North America,,550
+200,Basic,50.0,10.0,17,293.19,34,1,18,Europe,Organic,1700
+201,Basic,10.0,33.0,110,495.15,16,0,16,Africa,Paid Ads,160
+202,Pro,100.0,55.0,425,123.38,9,1,4,Asia,Referral,900
+203,Basic,250.0,50.0,389,267.71,32,1,6,Asia,Paid Ads,8000
+204,Pro,10.0,5.0,185,327.22,15,0,17,North America,Partnership,150
+205,Pro,10.0,47.0,116,324.07,12,0,6,Asia,,120
+206,Enterprise,250.0,49.0,110,282.84,33,0,16,North America,Paid Ads,8250
+207,Pro,50.0,35.0,269,389.58,45,0,6,Europe,Paid Ads,2250
+208,Enterprise,25.0,44.0,487,106.47,14,0,3,Asia,Paid Ads,350
+209,Basic,100.0,34.0,463,364.19,8,0,7,Africa,Organic,800
+210,Basic,25.0,,375,311.77,8,1,12,Asia,Referral,200
+211,Basic,250.0,55.0,255,448.56,27,1,3,North America,Organic,6750
+212,,10.0,21.0,284,424.36,12,0,5,Europe,Organic,120
+213,Enterprise,10.0,17.0,41,161.0,1,0,4,North America,Organic,10
+214,Basic,100.0,22.0,146,141.74,43,0,11,Asia,Paid Ads,4300
+215,Pro,10.0,48.0,21,490.92,40,0,3,North America,Organic,400
+216,Pro,10.0,37.0,404,266.0,42,0,8,North America,Referral,420
+217,Pro,100.0,15.0,311,,11,0,3,Europe,Organic,1100
+218,Enterprise,100.0,35.0,384,86.12,39,0,18,Africa,Partnership,3900
+219,Basic,250.0,28.0,25,323.2,43,0,13,Asia,Paid Ads,10750
+220,Basic,10.0,7.0,138,405.88,31,1,4,Europe,Partnership,310
+221,Basic,10.0,32.0,72,473.96,17,0,17,Africa,Referral,170
+222,,250.0,11.0,118,,33,0,9,North America,Referral,8250
+223,Pro,50.0,10.0,384,363.87,32,0,18,Africa,Referral,1600
+224,Pro,50.0,9.0,30,271.71,29,0,11,North America,Referral,1450
+225,Basic,50.0,14.0,167,35.01,21,0,17,North America,Organic,1050
+226,Pro,250.0,13.0,278,346.55,21,0,16,,,5250
+227,Pro,10.0,57.0,171,346.6,40,0,10,North America,Referral,400
+228,Enterprise,250.0,25.0,269,465.65,23,0,2,Europe,,5750
+229,Enterprise,250.0,2.0,421,251.17,6,0,16,,Referral,1500
+230,Enterprise,50.0,,111,,22,0,0,,Paid Ads,1100
+231,Enterprise,25.0,7.0,232,27.06,38,0,14,North America,Partnership,950
+232,Basic,10.0,21.0,68,210.74,37,1,8,Europe,Partnership,370
+233,Enterprise,50.0,18.0,256,154.45,45,0,14,North America,Partnership,2250
+234,Pro,25.0,3.0,137,381.74,8,1,2,Europe,Organic,200
+235,Basic,25.0,42.0,292,180.36,41,0,18,Europe,Referral,1025
+236,Pro,100.0,54.0,334,474.79,49,1,12,,Organic,4900
+237,Pro,10.0,39.0,34,481.34,35,0,11,Africa,Partnership,350
+238,Pro,25.0,41.0,140,312.35,11,0,19,Europe,Organic,275
+239,,,49.0,362,464.69,24,0,0,Africa,Organic,1200
+240,Enterprise,,11.0,205,381.62,49,0,16,Europe,Organic,4900
+241,Basic,10.0,39.0,290,275.7,21,0,12,Africa,Referral,210
+242,Basic,,24.0,413,94.25,2,0,0,Asia,Partnership,500
+243,Enterprise,50.0,46.0,427,232.01,40,0,9,Africa,Partnership,2000
+244,Pro,25.0,19.0,163,282.63,19,0,14,Africa,Referral,475
+245,Basic,25.0,4.0,391,432.66,39,0,6,North America,Organic,975
+246,Enterprise,50.0,26.0,142,,28,0,17,Europe,Organic,1400
+247,Enterprise,25.0,,236,449.35,17,0,15,Asia,,425
+248,Enterprise,100.0,42.0,198,338.8,6,0,13,North America,Paid Ads,600
+249,Pro,10.0,32.0,485,72.81,19,0,17,Europe,Paid Ads,190
+250,Enterprise,,39.0,486,497.52,38,1,6,Asia,Referral,3800
+251,Enterprise,25.0,45.0,274,265.98,28,0,16,Asia,Partnership,700
+252,Enterprise,250.0,46.0,381,198.97,2,0,17,Asia,Paid Ads,500
+253,Enterprise,10.0,,495,331.26,38,1,11,Europe,Partnership,380
+254,Basic,10.0,40.0,443,,37,0,7,Asia,Partnership,370
+255,Basic,50.0,37.0,143,320.09,4,0,1,Asia,Partnership,200
+256,Enterprise,50.0,,220,251.63,22,0,6,North America,Referral,1100
+257,Pro,250.0,36.0,69,206.3,26,0,3,Africa,Referral,6500
+258,Basic,10.0,3.0,437,476.74,49,0,17,Europe,Referral,490
+259,Enterprise,250.0,9.0,386,263.66,43,0,5,Africa,Referral,10750
+260,,50.0,8.0,404,113.46,36,0,8,North America,Paid Ads,1800
+261,Basic,50.0,33.0,459,232.19,13,1,8,,Organic,650
+262,Pro,10.0,59.0,440,460.1,32,0,13,Asia,,320
+263,Enterprise,100.0,6.0,373,92.17,17,0,7,Asia,Organic,1700
+264,Enterprise,25.0,41.0,373,110.91,41,0,18,Europe,Paid Ads,1025
+265,Pro,50.0,39.0,466,11.45,36,0,2,Europe,Organic,1800
+266,Pro,,4.0,222,12.02,46,0,17,Europe,Paid Ads,2300
+267,Enterprise,100.0,13.0,225,415.55,19,0,4,North America,Paid Ads,1900
+268,Enterprise,100.0,49.0,235,367.4,35,1,13,Europe,Paid Ads,3500
+269,Pro,250.0,2.0,479,180.75,46,1,3,North America,Organic,11500
+270,Basic,250.0,5.0,140,350.66,40,0,6,,Partnership,10000
+271,Basic,,44.0,85,200.63,28,0,19,Africa,Organic,700
+272,Pro,25.0,27.0,485,476.68,1,0,11,Asia,Organic,25
+273,Basic,10.0,,295,483.69,42,0,1,Asia,Referral,420
+274,Pro,250.0,,483,199.43,18,0,10,,Paid Ads,4500
+275,Basic,50.0,8.0,286,427.84,48,0,13,Europe,Partnership,2400
+276,Basic,250.0,38.0,165,387.68,40,0,15,,Referral,10000
+277,Enterprise,50.0,8.0,257,158.45,33,0,19,Europe,Partnership,1650
+278,Enterprise,100.0,50.0,227,,12,1,5,Africa,Partnership,1200
+279,Basic,250.0,3.0,199,231.83,8,0,3,Europe,Paid Ads,2000
+280,Basic,100.0,,426,,24,0,14,North America,Organic,2400
+281,Enterprise,25.0,44.0,478,480.28,16,0,0,Asia,Paid Ads,400
+282,Enterprise,25.0,58.0,172,382.97,4,0,6,Africa,Paid Ads,100
+283,Enterprise,10.0,3.0,189,428.33,38,0,11,Africa,Referral,380
+284,Pro,,,43,303.52,44,0,9,Africa,Paid Ads,11000
+285,Basic,,,50,418.53,27,0,4,,Organic,2700
+286,Enterprise,50.0,2.0,316,393.29,9,0,11,Africa,Partnership,450
+287,Basic,,23.0,440,191.61,47,0,17,North America,Paid Ads,1175
+288,,25.0,44.0,347,278.24,16,0,9,Asia,Partnership,400
+289,Pro,50.0,,323,403.35,12,0,5,Africa,,600
+290,Enterprise,,,84,27.8,31,1,11,Asia,Partnership,3100
+291,Pro,,17.0,450,405.0,24,0,6,Europe,Paid Ads,2400
+292,Basic,250.0,35.0,288,93.05,14,0,17,Africa,Referral,3500
+293,Enterprise,250.0,34.0,185,259.77,45,0,1,Africa,Partnership,11250
+294,Basic,10.0,23.0,393,405.1,25,0,9,Asia,Paid Ads,250
+295,Basic,25.0,30.0,159,,34,0,14,Africa,,850
+296,Pro,250.0,52.0,282,126.67,3,0,11,Africa,Referral,750
+297,Pro,100.0,8.0,334,204.37,24,0,16,Africa,Referral,2400
+298,Pro,50.0,,117,447.85,42,1,3,North America,Referral,2100
+299,Pro,100.0,44.0,148,5.22,9,0,6,North America,Partnership,900
+300,Pro,25.0,58.0,359,451.18,26,0,8,Africa,Partnership,650
+301,Enterprise,100.0,36.0,280,81.13,20,0,18,North America,,2000
+302,Basic,10.0,5.0,356,495.09,40,0,6,Europe,Organic,400
+303,Basic,25.0,13.0,428,477.65,10,0,1,Africa,Organic,250
+304,Basic,50.0,29.0,298,249.86,19,0,5,Europe,Paid Ads,950
+305,Basic,10.0,31.0,221,258.8,3,0,17,Asia,Organic,30
+306,Pro,25.0,47.0,390,243.37,24,0,5,Europe,Paid Ads,600
+307,Basic,50.0,57.0,281,,5,0,12,Asia,Partnership,250
+308,Enterprise,10.0,55.0,427,49.91,3,0,18,Africa,Partnership,30
+309,,10.0,16.0,75,21.15,27,0,1,Asia,Organic,270
+310,Basic,25.0,42.0,492,33.56,16,0,11,Asia,Partnership,400
+311,Basic,250.0,30.0,433,224.96,49,1,14,Europe,Referral,12250
+312,Enterprise,10.0,57.0,257,,15,0,13,Europe,Referral,150
+313,Enterprise,10.0,55.0,165,312.91,35,0,5,Europe,,350
+314,Pro,50.0,16.0,56,496.26,12,0,17,Africa,Organic,600
+315,,100.0,12.0,432,,41,0,4,Africa,Paid Ads,4100
+316,Pro,,17.0,463,289.05,44,0,17,Europe,Partnership,1100
+317,Pro,25.0,16.0,210,210.72,26,1,2,Africa,Paid Ads,650
+318,Pro,250.0,12.0,157,424.4,47,0,2,Africa,Paid Ads,11750
+319,Pro,250.0,8.0,133,451.61,34,0,9,Asia,Referral,8500
+320,Pro,25.0,20.0,10,439.29,23,0,18,Asia,Referral,575
+321,Basic,250.0,3.0,465,487.31,31,0,2,Europe,Referral,7750
+322,Enterprise,50.0,16.0,256,18.62,20,0,11,Africa,Referral,1000
+323,,25.0,30.0,352,420.71,12,0,15,Asia,Paid Ads,300
+324,Enterprise,250.0,45.0,137,377.13,23,0,16,North America,Referral,5750
+325,Enterprise,25.0,23.0,200,118.2,4,0,6,Africa,,100
+326,Pro,100.0,28.0,76,478.38,23,0,12,North America,,2300
+327,Basic,10.0,51.0,13,78.35,48,0,1,Europe,Referral,480
+328,Pro,25.0,40.0,451,341.38,48,0,3,Africa,Referral,1200
+329,Basic,10.0,54.0,418,116.32,1,0,9,Europe,,10
+330,Enterprise,,5.0,312,218.53,25,0,6,Europe,Partnership,6250
+331,Basic,,,303,360.98,2,0,16,Europe,Partnership,20
+332,Basic,25.0,40.0,152,283.85,30,0,19,Europe,Paid Ads,750
+333,Basic,100.0,56.0,200,216.61,3,0,5,Europe,Paid Ads,300
+334,Enterprise,250.0,44.0,30,166.54,21,0,18,Africa,Referral,5250
+335,,25.0,1.0,236,420.63,25,0,4,North America,Organic,625
+336,Basic,250.0,57.0,322,76.19,20,0,9,Africa,Paid Ads,5000
+337,Basic,,30.0,126,217.9,49,1,8,Africa,Paid Ads,2450
+338,Pro,10.0,21.0,446,452.36,22,0,12,Africa,Referral,220
+339,Basic,50.0,20.0,311,423.7,21,0,18,Asia,Referral,1050
+340,Pro,25.0,6.0,151,203.47,33,0,5,Asia,Paid Ads,825
+341,Basic,100.0,22.0,493,382.74,38,0,3,Africa,Paid Ads,3800
+342,,250.0,18.0,469,,15,0,2,North America,Partnership,3750
+343,Enterprise,10.0,8.0,410,,46,0,2,Africa,Organic,460
+344,Basic,250.0,39.0,48,274.53,15,0,3,Europe,Partnership,3750
+345,Basic,25.0,32.0,402,106.21,46,0,4,Asia,Paid Ads,1150
+346,Basic,250.0,33.0,364,131.38,25,0,7,Asia,Partnership,6250
+347,,10.0,53.0,261,151.37,21,0,15,Africa,Partnership,210
+348,Pro,25.0,16.0,342,298.93,24,0,2,Africa,Paid Ads,600
+349,Basic,250.0,12.0,216,21.24,5,0,11,North America,Referral,1250
+350,Enterprise,100.0,38.0,219,319.84,6,1,7,North America,,600
+351,Enterprise,25.0,52.0,124,185.36,49,0,12,Europe,Referral,1225
+352,Basic,25.0,34.0,234,151.14,43,0,3,Africa,Paid Ads,1075
+353,Enterprise,100.0,14.0,143,440.35,48,0,13,Africa,Paid Ads,4800
+354,,50.0,36.0,260,,44,0,13,Africa,,2200
+355,Basic,10.0,33.0,228,52.05,47,0,12,Asia,Organic,470
+356,Enterprise,50.0,23.0,416,,23,0,5,Europe,Referral,1150
+357,Basic,250.0,50.0,452,28.58,4,0,16,,Organic,1000
+358,Enterprise,100.0,45.0,100,364.74,27,0,3,Asia,Paid Ads,2700
+359,,50.0,2.0,363,388.08,18,0,7,Asia,Partnership,900
+360,Basic,25.0,41.0,385,179.54,21,1,16,Asia,Organic,525
+361,Pro,250.0,21.0,55,413.27,28,0,2,Asia,Referral,7000
+362,Enterprise,250.0,2.0,47,260.25,35,0,16,Europe,Paid Ads,8750
+363,Pro,50.0,27.0,151,234.33,22,0,8,Africa,Organic,1100
+364,Pro,50.0,57.0,109,27.47,40,0,1,North America,Partnership,2000
+365,Enterprise,100.0,9.0,337,148.56,23,0,12,North America,Organic,2300
+366,Pro,10.0,1.0,199,465.85,3,0,19,Asia,Referral,30
+367,Pro,50.0,11.0,44,198.95,40,0,1,Asia,Organic,2000
+368,Enterprise,50.0,3.0,156,275.62,10,1,19,Europe,Partnership,500
+369,Pro,25.0,52.0,39,268.35,25,1,10,Asia,Partnership,625
+370,Enterprise,250.0,23.0,343,297.26,49,1,14,North America,Referral,12250
+371,Pro,10.0,26.0,93,35.36,8,0,10,North America,Partnership,80
+372,Enterprise,25.0,4.0,378,184.28,11,0,2,Africa,Paid Ads,275
+373,Enterprise,100.0,18.0,290,362.95,5,0,2,Africa,Partnership,500
+374,,100.0,55.0,433,104.28,45,0,11,North America,Paid Ads,4500
+375,Pro,50.0,,353,105.77,37,0,4,North America,Organic,1850
+376,Pro,50.0,35.0,279,9.99,45,0,19,Europe,Paid Ads,2250
+377,Basic,100.0,22.0,163,221.55,38,0,6,Europe,,3800
+378,Basic,50.0,43.0,111,441.95,29,0,6,North America,Organic,1450
+379,Basic,10.0,15.0,224,30.69,5,0,12,Asia,Partnership,50
+380,Enterprise,50.0,22.0,159,99.6,9,1,8,Africa,Paid Ads,450
+381,Pro,250.0,37.0,441,158.49,48,0,12,North America,Partnership,12000
+382,Enterprise,50.0,52.0,92,367.2,2,0,11,Asia,Organic,100
+383,Basic,25.0,42.0,119,322.11,1,0,12,North America,Referral,25
+384,Pro,10.0,12.0,444,210.89,40,0,9,Africa,Partnership,400
+385,Enterprise,25.0,47.0,396,380.74,30,1,0,Africa,Partnership,750
+386,,25.0,49.0,435,306.77,11,0,7,Europe,Referral,275
+387,Enterprise,250.0,,284,,28,0,15,Europe,Referral,7000
+388,Pro,10.0,38.0,210,409.92,44,0,12,Europe,Organic,440
+389,Basic,10.0,18.0,293,130.14,12,1,2,Europe,Partnership,120
+390,Basic,10.0,45.0,477,139.36,39,0,2,Africa,Partnership,390
+391,Pro,10.0,35.0,182,67.05,26,1,4,Asia,Organic,260
+392,,10.0,30.0,336,171.8,13,0,10,Asia,Partnership,130
+393,Basic,250.0,24.0,215,499.77,8,0,6,Asia,,2000
+394,Basic,50.0,42.0,72,205.85,28,0,9,North America,,1400
+395,Basic,,,82,114.14,30,1,9,Europe,Paid Ads,750
+396,Pro,10.0,14.0,260,382.43,9,0,19,Europe,Partnership,90
+397,,50.0,6.0,133,273.52,39,0,1,Africa,Paid Ads,1950
+398,Enterprise,50.0,3.0,384,79.05,31,0,2,Africa,Paid Ads,1550
+399,Enterprise,25.0,16.0,130,193.44,21,0,7,North America,Organic,525
+400,Enterprise,250.0,7.0,284,210.16,47,0,10,,Organic,11750
+401,Pro,100.0,52.0,440,,34,1,12,Asia,Referral,3400
+402,Pro,100.0,14.0,407,15.23,31,0,6,Africa,Referral,3100
+403,Enterprise,50.0,9.0,129,,25,0,12,Europe,Referral,1250
+404,Enterprise,25.0,15.0,431,261.21,12,0,1,Asia,Referral,300
+405,Pro,100.0,,446,138.08,1,0,5,Europe,Organic,100
+406,Enterprise,,35.0,326,316.07,22,0,8,Asia,Organic,1100
+407,Basic,250.0,,173,,40,0,19,Europe,Organic,10000
+408,Pro,100.0,27.0,433,184.05,37,0,1,North America,Paid Ads,3700
+409,Enterprise,,2.0,474,474.86,47,0,17,Asia,Paid Ads,2350
+410,Pro,50.0,35.0,295,317.92,1,0,15,Europe,,50
+411,Basic,10.0,18.0,274,69.32,1,0,11,Europe,Paid Ads,10
+412,Pro,,,329,282.25,42,0,6,Africa,,10500
+413,,10.0,20.0,170,391.46,42,1,6,Asia,,420
+414,Pro,25.0,18.0,385,355.7,21,1,16,,Referral,525
+415,,,10.0,317,90.18,15,1,12,Africa,Referral,150
+416,Basic,10.0,25.0,98,486.35,17,0,10,Europe,Partnership,170
+417,Pro,100.0,2.0,151,227.16,22,0,5,Asia,Paid Ads,2200
+418,Pro,50.0,25.0,212,83.72,38,0,13,North America,Referral,1900
+419,Enterprise,250.0,54.0,318,94.2,35,0,5,Asia,Paid Ads,8750
+420,,10.0,33.0,236,53.63,45,0,5,Asia,Paid Ads,450
+421,Enterprise,,36.0,498,402.74,16,0,1,Europe,Partnership,4000
+422,Basic,10.0,,452,65.41,8,0,19,Europe,Referral,80
+423,,25.0,14.0,343,66.94,47,0,14,Asia,Paid Ads,1175
+424,Basic,10.0,1.0,231,,17,1,16,Africa,Paid Ads,170
+425,Basic,100.0,46.0,50,175.58,17,0,7,,Partnership,1700
+426,Enterprise,50.0,16.0,205,20.27,26,1,4,Africa,Partnership,1300
+427,Pro,25.0,54.0,77,30.69,13,0,16,Europe,Paid Ads,325
+428,Basic,10.0,46.0,485,75.37,17,0,19,Europe,Partnership,170
+429,Pro,250.0,52.0,273,110.63,38,0,0,Asia,Paid Ads,9500
+430,,25.0,3.0,11,334.25,17,0,17,North America,Referral,425
+431,Enterprise,25.0,35.0,370,82.88,48,1,14,Europe,Organic,1200
+432,,,41.0,134,63.84,14,1,4,Asia,Partnership,140
+433,Basic,,6.0,119,383.54,45,0,6,Asia,,1125
+434,Pro,250.0,25.0,95,337.17,6,0,17,North America,Paid Ads,1500
+435,Pro,,13.0,434,220.49,35,1,5,,Paid Ads,875
+436,Pro,250.0,53.0,129,276.91,46,0,4,Asia,Paid Ads,11500
+437,Enterprise,10.0,34.0,136,159.43,14,1,18,Asia,Organic,140
+438,Basic,50.0,8.0,264,,47,0,9,Asia,Paid Ads,2350
+439,Enterprise,,21.0,192,255.8,8,0,14,Africa,Partnership,200
+440,Enterprise,50.0,34.0,25,196.68,15,0,9,Africa,Referral,750
+441,Pro,250.0,4.0,486,453.75,27,0,15,North America,Referral,6750
+442,Enterprise,25.0,25.0,71,,13,0,11,Europe,Partnership,325
+443,Pro,100.0,15.0,378,,49,0,17,,Referral,4900
+444,Basic,50.0,4.0,441,66.57,31,0,0,Europe,Organic,1550
+445,Pro,25.0,45.0,167,399.79,35,0,15,,Paid Ads,875
+446,,50.0,12.0,277,309.88,6,0,5,Africa,Paid Ads,300
+447,Pro,25.0,32.0,44,422.42,5,0,2,Asia,,125
+448,Enterprise,,32.0,276,53.27,22,0,1,North America,Organic,220
+449,Enterprise,50.0,28.0,73,281.7,49,0,1,Europe,Organic,2450
+450,Basic,100.0,13.0,59,253.04,23,0,12,Asia,Organic,2300
+451,,100.0,31.0,478,354.57,25,1,8,Africa,Partnership,2500
+452,Basic,250.0,14.0,264,269.47,34,1,15,Europe,Organic,8500
+453,Pro,25.0,,158,272.66,26,0,4,Europe,Referral,650
+454,Pro,50.0,18.0,334,217.65,47,0,6,Europe,Partnership,2350
+455,Basic,250.0,,313,157.87,5,1,12,Asia,Partnership,1250
+456,,50.0,6.0,285,,26,1,19,Asia,Partnership,1300
+457,Pro,,,366,63.65,20,0,12,Asia,,500
+458,Pro,100.0,29.0,460,480.95,6,0,6,Europe,,600
+459,Pro,10.0,43.0,181,358.63,6,0,9,Europe,Organic,60
+460,Basic,100.0,2.0,426,476.47,18,0,14,North America,,1800
+461,,250.0,23.0,210,117.23,4,0,5,North America,Partnership,1000
+462,Basic,,19.0,454,440.27,17,0,4,Asia,Paid Ads,170
+463,Basic,250.0,,402,405.35,14,1,1,Asia,Paid Ads,3500
+464,Basic,25.0,51.0,333,340.19,14,1,14,Africa,Partnership,350
+465,,10.0,5.0,44,314.39,13,0,15,Asia,,130
+466,Enterprise,250.0,19.0,474,161.69,7,0,18,North America,Referral,1750
+467,Basic,25.0,,491,,44,0,8,North America,Referral,1100
+468,Pro,100.0,10.0,225,253.25,15,1,18,,Organic,1500
+469,Basic,25.0,25.0,489,,19,0,6,Europe,Paid Ads,475
+470,Enterprise,,2.0,74,159.87,43,0,3,Europe,Referral,2150
+471,,,11.0,17,,47,0,2,Asia,Partnership,1175
+472,Pro,,50.0,310,426.09,44,0,19,Africa,Paid Ads,1100
+473,Enterprise,50.0,31.0,352,491.04,35,0,10,Africa,Referral,1750
+474,Basic,250.0,56.0,440,315.86,17,0,0,Africa,Referral,4250
+475,Pro,250.0,15.0,433,127.52,35,0,5,Europe,,8750
+476,,25.0,9.0,341,85.59,19,1,10,North America,Organic,475
+477,Basic,50.0,,447,97.52,20,1,0,North America,,1000
+478,Pro,50.0,19.0,85,14.8,36,1,6,Europe,,1800
+479,Basic,,9.0,183,198.39,35,0,5,Africa,Referral,3500
+480,,250.0,35.0,56,99.76,32,0,13,Africa,Organic,8000
+481,Basic,10.0,21.0,24,208.77,48,0,1,Asia,,480
+482,Pro,250.0,,370,467.82,44,1,3,Asia,Referral,11000
+483,Pro,250.0,28.0,156,218.12,40,0,10,Africa,Paid Ads,10000
+484,Pro,,46.0,35,439.6,24,0,14,Europe,Organic,2400
+485,Basic,10.0,51.0,317,304.72,17,0,17,Africa,Organic,170
+486,Pro,100.0,7.0,102,127.33,7,0,0,Asia,,700
+487,Pro,10.0,16.0,415,181.15,43,0,2,Africa,Partnership,430
+488,Basic,25.0,16.0,241,,1,0,2,Europe,Paid Ads,25
+489,Enterprise,10.0,33.0,30,,35,0,6,North America,Paid Ads,350
+490,Basic,100.0,4.0,316,340.38,32,0,0,Europe,Paid Ads,3200
+491,Pro,250.0,4.0,47,40.69,36,1,10,Europe,Partnership,9000
+492,Pro,10.0,39.0,285,106.67,13,0,5,Asia,Organic,130
+493,Basic,10.0,40.0,166,193.81,6,0,19,Europe,Organic,60
+494,Enterprise,50.0,17.0,188,491.11,14,0,2,Europe,Organic,700
+495,Pro,250.0,37.0,141,393.51,37,1,18,,Paid Ads,9250
+496,Pro,25.0,,320,368.08,48,0,1,Asia,Paid Ads,1200
+497,Pro,100.0,52.0,464,62.51,15,1,17,,Referral,1500
+498,Basic,25.0,29.0,357,391.59,47,0,11,Africa,Partnership,1175
+499,Pro,250.0,52.0,37,393.71,4,1,9,Europe,Partnership,1000
+500,Enterprise,10.0,36.0,269,302.55,40,1,4,Asia,Paid Ads,400
+501,Pro,10.0,38.0,415,495.23,16,0,8,North America,,160
+502,Pro,250.0,39.0,85,166.0,28,0,1,Africa,Organic,7000
+503,Enterprise,10.0,50.0,438,470.93,16,0,1,Asia,Paid Ads,160
+504,Pro,10.0,37.0,76,457.79,4,0,5,Africa,Partnership,40
+505,Basic,10.0,52.0,351,10.68,45,0,9,Africa,Partnership,450
+506,Basic,100.0,35.0,203,227.81,26,0,17,Europe,Partnership,2600
+507,,100.0,7.0,481,488.67,28,0,11,Europe,,2800
+508,Enterprise,50.0,27.0,171,56.05,32,0,3,Asia,Partnership,1600
+509,Pro,,28.0,356,276.15,45,0,16,Africa,Organic,1125
+510,Basic,250.0,22.0,448,,2,0,14,Asia,Organic,500
+511,Enterprise,250.0,14.0,370,,31,0,5,Asia,Organic,7750
+512,Pro,250.0,7.0,266,98.96,3,0,15,Africa,Paid Ads,750
+513,Enterprise,50.0,37.0,81,293.18,8,0,16,Asia,Organic,400
+514,Basic,100.0,22.0,96,,24,0,2,Africa,Referral,2400
+515,Basic,50.0,5.0,431,262.25,15,1,9,Africa,,750
+516,Basic,250.0,55.0,271,41.65,43,0,4,Africa,Paid Ads,10750
+517,Enterprise,25.0,2.0,223,304.71,31,0,13,Africa,Partnership,775
+518,,10.0,27.0,162,260.81,9,0,12,North America,Organic,90
+519,Basic,100.0,21.0,219,371.38,39,1,5,Africa,Paid Ads,3900
+520,Enterprise,,54.0,410,317.2,45,1,11,Europe,Referral,4500
+521,Basic,50.0,38.0,70,277.06,2,1,7,,Organic,100
+522,Basic,100.0,15.0,277,346.44,8,0,4,Europe,Partnership,800
+523,Pro,250.0,21.0,271,76.25,7,0,14,Africa,Referral,1750
+524,,250.0,10.0,227,299.7,44,0,15,Europe,Organic,11000
+525,Basic,50.0,23.0,292,90.19,39,0,0,North America,Referral,1950
+526,Basic,250.0,,145,463.13,42,1,15,Asia,Organic,10500
+527,Enterprise,25.0,56.0,476,38.83,16,0,4,Africa,Paid Ads,400
+528,Pro,50.0,39.0,389,218.04,35,0,2,Europe,,1750
+529,Pro,25.0,5.0,371,349.42,30,0,19,North America,Paid Ads,750
+530,Basic,10.0,1.0,458,,10,1,14,,Organic,100
+531,Enterprise,25.0,13.0,450,50.59,38,0,12,North America,Organic,950
+532,Pro,10.0,,102,278.92,18,0,15,Europe,Partnership,180
+533,Enterprise,10.0,,118,322.61,5,0,10,North America,Referral,50
+534,Enterprise,25.0,50.0,250,353.38,29,0,1,Asia,Referral,725
+535,Basic,50.0,45.0,364,189.76,39,0,5,Europe,Referral,1950
+536,Pro,250.0,21.0,433,284.01,34,1,5,Asia,Organic,8500
+537,Basic,,53.0,151,228.09,43,0,13,North America,Organic,10750
+538,Pro,10.0,18.0,300,337.67,45,0,10,Africa,Organic,450
+539,Pro,,,441,293.86,23,0,7,,Paid Ads,230
+540,Pro,50.0,45.0,246,265.25,5,0,7,Africa,Paid Ads,250
+541,Pro,100.0,32.0,349,128.51,30,1,0,Africa,Partnership,3000
+542,Pro,25.0,36.0,321,6.0,6,0,6,Asia,Organic,150
+543,Enterprise,,17.0,186,91.17,46,0,5,Africa,Referral,460
+544,Basic,250.0,35.0,150,62.95,44,1,7,Asia,Referral,11000
+545,Enterprise,50.0,49.0,198,227.3,4,0,18,Europe,Partnership,200
+546,Pro,25.0,11.0,495,308.07,29,0,19,Africa,Referral,725
+547,Basic,50.0,21.0,58,110.48,23,0,7,Asia,Partnership,1150
+548,Pro,25.0,52.0,311,469.83,6,0,13,Africa,Organic,150
+549,Basic,25.0,55.0,378,8.31,32,0,17,Africa,Referral,800
+550,Enterprise,10.0,53.0,199,387.29,42,0,15,Africa,,420
+551,Basic,,26.0,145,314.48,18,0,8,Asia,Paid Ads,900
+552,Basic,50.0,4.0,52,189.91,15,0,14,North America,Referral,750
+553,,250.0,34.0,413,29.99,40,0,9,Africa,Paid Ads,10000
+554,Basic,250.0,52.0,389,315.61,32,0,15,Africa,Referral,8000
+555,Basic,10.0,48.0,362,195.88,9,1,3,Europe,Organic,90
+556,Pro,10.0,18.0,99,468.45,37,0,19,North America,Partnership,370
+557,Basic,100.0,40.0,304,273.29,10,0,12,Asia,Organic,1000
+558,Basic,250.0,35.0,350,,20,0,4,Europe,Organic,5000
+559,Enterprise,25.0,41.0,254,114.14,6,0,6,Africa,Organic,150
+560,Basic,50.0,29.0,442,364.23,48,0,8,Europe,Referral,2400
+561,Enterprise,10.0,52.0,201,,3,0,7,Europe,Partnership,30
+562,Pro,,29.0,327,371.01,42,0,15,Africa,Paid Ads,2100
+563,Basic,50.0,38.0,115,111.26,11,0,5,North America,Organic,550
+564,Enterprise,100.0,42.0,372,334.17,43,0,15,North America,Referral,4300
+565,Enterprise,,21.0,319,251.53,17,1,5,Europe,,4250
+566,Pro,,42.0,391,372.7,32,1,13,Africa,Organic,320
+567,Basic,50.0,13.0,242,,4,0,0,Asia,Paid Ads,200
+568,Basic,10.0,49.0,274,445.58,4,0,8,Europe,Organic,40
+569,Enterprise,25.0,41.0,353,46.73,17,0,12,Asia,Paid Ads,425
+570,Basic,100.0,17.0,46,,41,0,18,Europe,Paid Ads,4100
+571,Enterprise,25.0,56.0,314,431.35,19,0,16,Europe,Partnership,475
+572,Basic,10.0,,50,409.54,5,1,10,Africa,Partnership,50
+573,Enterprise,10.0,41.0,26,258.8,32,0,7,Africa,,320
+574,Basic,,1.0,353,222.0,22,0,4,Asia,Referral,5500
+575,Pro,50.0,2.0,286,498.15,6,0,9,Asia,Partnership,300
+576,Basic,50.0,48.0,316,118.44,35,0,6,North America,Paid Ads,1750
+577,Basic,25.0,29.0,68,275.7,22,1,9,Africa,Partnership,550
+578,Pro,100.0,33.0,432,336.98,1,0,3,Europe,Partnership,100
+579,Basic,50.0,,192,,20,1,8,,Organic,1000
+580,Pro,250.0,50.0,50,105.99,22,0,13,,Partnership,5500
+581,Basic,25.0,58.0,48,,48,0,1,Africa,Partnership,1200
+582,Enterprise,25.0,40.0,406,410.09,11,1,8,Europe,Paid Ads,275
+583,Enterprise,250.0,21.0,201,29.76,13,0,0,North America,Partnership,3250
+584,Basic,100.0,28.0,276,456.2,42,1,9,North America,Paid Ads,4200
+585,Basic,250.0,11.0,156,19.6,3,0,9,Europe,Partnership,750
+586,Basic,100.0,55.0,404,181.21,9,0,19,Europe,Partnership,900
+587,Enterprise,250.0,34.0,342,12.83,12,1,2,Asia,Referral,3000
+588,Basic,250.0,8.0,136,,23,0,5,Africa,Partnership,5750
+589,Enterprise,10.0,59.0,55,,14,1,5,Asia,Paid Ads,140
+590,Pro,25.0,22.0,54,180.66,33,1,1,North America,Paid Ads,825
+591,Enterprise,,8.0,10,215.26,18,0,17,Europe,Organic,4500
+592,,250.0,49.0,177,111.6,49,0,1,Asia,Organic,12250
+593,Pro,50.0,15.0,117,300.56,41,0,11,North America,Referral,2050
+594,,25.0,17.0,28,299.43,9,0,4,Africa,Paid Ads,225
+595,Basic,,23.0,341,189.24,23,0,19,Europe,Paid Ads,1150
+596,Basic,25.0,24.0,81,169.85,10,0,6,Asia,Paid Ads,250
+597,,50.0,45.0,465,443.06,19,0,15,Africa,Referral,950
+598,Basic,250.0,19.0,454,194.73,47,0,19,Asia,Paid Ads,11750
+599,Enterprise,250.0,5.0,118,249.28,5,1,0,North America,Organic,1250
+600,Basic,10.0,32.0,277,,47,1,0,Africa,Referral,470
+601,Basic,50.0,,454,394.45,23,0,16,Asia,Organic,1150
+602,Enterprise,100.0,,249,201.74,30,0,0,Africa,Organic,3000
+603,Basic,10.0,23.0,426,259.24,25,1,19,North America,Referral,250
+604,Enterprise,50.0,37.0,310,130.41,28,0,12,,Partnership,1400
+605,Basic,50.0,8.0,99,493.89,34,0,8,Asia,Partnership,1700
+606,Basic,10.0,13.0,112,149.29,45,1,14,North America,Organic,450
+607,Pro,250.0,8.0,485,386.52,48,0,2,Europe,Partnership,12000
+608,Pro,50.0,57.0,259,216.61,47,0,13,Asia,Paid Ads,2350
+609,Enterprise,250.0,,462,,25,1,10,Asia,Referral,6250
+610,Pro,10.0,43.0,17,400.86,10,1,11,North America,Organic,100
+611,Enterprise,250.0,1.0,162,170.14,14,0,12,North America,Paid Ads,3500
+612,Pro,25.0,45.0,356,433.27,42,0,12,,Partnership,1050
+613,Basic,100.0,51.0,183,458.05,46,0,0,Asia,Paid Ads,4600
+614,Enterprise,50.0,24.0,352,430.61,30,0,9,North America,Partnership,1500
+615,Enterprise,,35.0,167,22.33,41,0,2,,Organic,4100
+616,Basic,250.0,24.0,440,394.75,25,0,3,Europe,Paid Ads,6250
+617,Enterprise,50.0,17.0,224,208.61,14,1,15,,Referral,700
+618,Enterprise,250.0,5.0,186,437.49,35,0,7,Asia,Organic,8750
+619,Pro,25.0,20.0,184,320.79,48,0,15,Africa,Paid Ads,1200
+620,Enterprise,10.0,,349,417.65,34,0,16,,Paid Ads,340
+621,,50.0,40.0,347,,10,0,18,,Partnership,500
+622,Pro,25.0,58.0,155,269.84,35,0,14,Africa,Organic,875
+623,Pro,,,459,76.47,11,0,15,Africa,Organic,275
+624,Basic,50.0,46.0,333,,11,0,14,North America,,550
+625,Basic,250.0,36.0,487,212.6,21,0,1,Europe,Organic,5250
+626,Pro,25.0,11.0,170,252.54,21,0,10,Asia,Partnership,525
+627,Enterprise,100.0,52.0,136,393.62,22,1,0,Europe,Referral,2200
+628,Pro,25.0,15.0,429,301.43,45,0,14,,Organic,1125
+629,Basic,250.0,,91,104.54,7,0,18,Africa,Partnership,1750
+630,Pro,250.0,7.0,494,,17,1,3,Asia,Referral,4250
+631,Basic,100.0,51.0,156,206.78,2,1,10,Europe,Referral,200
+632,Pro,,28.0,248,237.42,12,0,4,Africa,Partnership,300
+633,Enterprise,250.0,51.0,421,19.01,42,0,2,Europe,Organic,10500
+634,,,43.0,433,,18,1,12,,Referral,900
+635,Pro,10.0,58.0,93,144.11,11,1,9,Europe,Organic,110
+636,Basic,10.0,5.0,122,357.92,16,0,10,Europe,Organic,160
+637,,10.0,5.0,234,10.69,49,0,17,Europe,Paid Ads,490
+638,Basic,25.0,30.0,341,207.34,18,0,1,Africa,,450
+639,Pro,100.0,54.0,387,462.39,35,0,6,Asia,Paid Ads,3500
+640,Enterprise,250.0,32.0,252,60.38,26,0,8,Asia,Referral,6500
+641,Basic,50.0,8.0,152,260.63,16,0,9,Africa,Partnership,800
+642,Basic,50.0,,50,394.33,6,1,17,Africa,Paid Ads,300
+643,Pro,25.0,38.0,432,471.55,44,0,6,Africa,Partnership,1100
+644,,10.0,47.0,267,,43,0,6,North America,Referral,430
+645,Enterprise,25.0,32.0,456,361.68,47,0,2,,Organic,1175
+646,Enterprise,100.0,48.0,294,414.11,47,0,11,Europe,Referral,4700
+647,Basic,100.0,28.0,114,225.87,48,0,6,Asia,Partnership,4800
+648,Basic,250.0,17.0,211,403.89,42,0,16,Europe,,10500
+649,Pro,250.0,31.0,459,8.94,12,0,0,North America,Organic,3000
+650,Enterprise,,8.0,316,462.66,13,0,4,Africa,Referral,1300
+651,Enterprise,,,340,224.44,4,1,15,Asia,Organic,400
+652,Basic,100.0,25.0,470,278.92,39,0,14,Asia,Paid Ads,3900
+653,Pro,25.0,9.0,275,131.17,2,0,1,Europe,Partnership,50
+654,Enterprise,100.0,2.0,407,372.55,26,1,8,Asia,Organic,2600
+655,Enterprise,,15.0,219,42.93,27,0,6,Africa,Organic,1350
+656,,10.0,50.0,60,436.95,27,0,3,Asia,Referral,270
+657,,100.0,3.0,127,414.92,15,1,19,Africa,Paid Ads,1500
+658,Enterprise,10.0,49.0,210,111.95,8,0,17,North America,Organic,80
+659,Enterprise,25.0,36.0,386,405.62,7,0,3,North America,,175
+660,Pro,10.0,4.0,48,394.25,47,0,12,Africa,Paid Ads,470
+661,,,14.0,37,317.95,46,1,0,Europe,Referral,1150
+662,Basic,50.0,41.0,268,189.89,40,0,2,Asia,Organic,2000
+663,Basic,25.0,41.0,93,139.39,12,0,15,Europe,Referral,300
+664,Pro,25.0,25.0,463,119.73,13,0,3,Asia,Partnership,325
+665,Pro,250.0,58.0,164,162.71,43,0,15,North America,,10750
+666,Pro,100.0,55.0,126,452.26,17,0,18,North America,Organic,1700
+667,Basic,100.0,,11,43.43,17,0,0,North America,Paid Ads,1700
+668,Enterprise,50.0,10.0,102,415.29,36,0,4,Asia,Organic,1800
+669,Basic,,21.0,175,177.7,21,0,18,North America,,1050
+670,,100.0,36.0,396,,8,0,10,North America,Partnership,800
+671,Basic,250.0,12.0,409,398.27,5,0,12,North America,,1250
+672,,100.0,27.0,359,442.77,26,1,19,,Paid Ads,2600
+673,Basic,250.0,40.0,305,175.67,16,0,4,Europe,Paid Ads,4000
+674,Pro,50.0,2.0,267,,36,1,3,North America,,1800
+675,Basic,,54.0,90,210.19,28,1,3,North America,Referral,280
+676,Enterprise,,13.0,434,11.56,29,0,3,Europe,Organic,1450
+677,Basic,50.0,53.0,277,151.49,47,0,3,Europe,Paid Ads,2350
+678,Basic,25.0,32.0,428,232.3,12,1,19,,Referral,300
+679,Basic,25.0,31.0,244,208.49,37,0,17,Africa,Partnership,925
+680,Pro,25.0,16.0,330,362.35,30,1,17,North America,Paid Ads,750
+681,Basic,25.0,32.0,320,195.48,23,0,15,North America,Paid Ads,575
+682,,250.0,32.0,310,247.24,16,0,8,North America,Referral,4000
+683,Pro,100.0,34.0,472,217.66,14,0,17,,Paid Ads,1400
+684,Basic,10.0,11.0,483,371.61,10,0,1,North America,,100
+685,Basic,50.0,10.0,366,432.17,7,1,3,Africa,Paid Ads,350
+686,Basic,250.0,15.0,222,268.29,45,0,11,Europe,,11250
+687,Enterprise,10.0,17.0,71,395.77,37,0,6,Asia,Paid Ads,370
+688,Basic,250.0,40.0,58,151.91,29,1,14,Europe,Paid Ads,7250
+689,Pro,250.0,18.0,136,,3,0,6,North America,Paid Ads,750
+690,Basic,50.0,55.0,232,175.89,15,0,16,North America,Paid Ads,750
+691,,100.0,,418,210.03,36,0,15,North America,Partnership,3600
+692,Basic,25.0,25.0,288,367.54,47,0,18,Africa,Paid Ads,1175
+693,Enterprise,100.0,40.0,417,441.42,46,0,8,Africa,Partnership,4600
+694,Enterprise,,59.0,303,65.14,19,0,13,Asia,Partnership,950
+695,Basic,50.0,14.0,293,319.15,13,0,16,Europe,Organic,650
+696,,50.0,58.0,286,293.16,42,0,4,North America,Organic,2100
+697,Enterprise,10.0,,447,63.62,21,0,1,North America,Partnership,210
+698,Basic,100.0,50.0,116,109.89,37,0,19,North America,Partnership,3700
+699,,100.0,22.0,155,158.95,27,0,15,North America,,2700
+700,Pro,250.0,52.0,429,87.63,29,0,13,Africa,Organic,7250
+701,Enterprise,250.0,30.0,108,125.65,20,0,13,Europe,Referral,5000
+702,Enterprise,250.0,20.0,438,137.46,25,0,0,Europe,Organic,6250
+703,Basic,50.0,,384,,6,1,2,Asia,Partnership,300
+704,Basic,100.0,44.0,82,375.95,36,0,6,Africa,Partnership,3600
+705,Pro,50.0,32.0,446,,2,0,14,North America,Paid Ads,100
+706,Pro,10.0,51.0,495,493.19,22,0,18,Europe,Paid Ads,220
+707,Enterprise,250.0,46.0,131,210.29,32,0,19,Europe,Organic,8000
+708,Enterprise,50.0,49.0,39,378.16,16,0,1,,Paid Ads,800
+709,Basic,50.0,,197,436.38,18,0,18,Asia,Referral,900
+710,Enterprise,,21.0,373,,5,0,8,Asia,Referral,50
+711,Pro,25.0,35.0,363,,36,0,18,,Paid Ads,900
+712,Pro,100.0,58.0,297,,30,1,4,Asia,Referral,3000
+713,,25.0,32.0,460,105.82,45,0,17,Europe,Referral,1125
+714,Pro,250.0,30.0,204,167.14,19,0,15,Asia,Organic,4750
+715,,50.0,55.0,165,275.61,23,1,3,,Referral,1150
+716,Pro,10.0,39.0,181,289.83,34,0,11,Europe,Partnership,340
+717,,10.0,49.0,344,15.96,13,0,6,Asia,Partnership,130
+718,Basic,100.0,12.0,50,472.83,43,0,13,Asia,Organic,4300
+719,Basic,,,72,,29,0,11,Africa,Paid Ads,725
+720,Enterprise,100.0,47.0,32,250.37,36,0,2,North America,Organic,3600
+721,,50.0,18.0,369,466.9,22,0,4,Asia,Paid Ads,1100
+722,Enterprise,,21.0,84,,47,0,16,Africa,Paid Ads,4700
+723,,10.0,,57,490.32,36,0,9,Europe,Paid Ads,360
+724,Basic,10.0,21.0,169,258.58,9,0,9,Africa,Paid Ads,90
+725,Basic,250.0,8.0,322,61.57,39,1,10,Africa,Paid Ads,9750
+726,Basic,250.0,46.0,127,383.58,19,0,16,Asia,Organic,4750
+727,Basic,50.0,40.0,109,341.05,38,0,4,Asia,Paid Ads,1900
+728,Basic,25.0,46.0,389,387.63,6,0,12,,Referral,150
+729,Basic,100.0,7.0,426,475.96,47,0,9,Africa,Referral,4700
+730,Pro,50.0,23.0,417,389.36,15,1,8,Europe,Paid Ads,750
+731,Enterprise,250.0,44.0,176,,20,0,16,,,5000
+732,Basic,100.0,32.0,299,429.37,9,0,0,,Partnership,900
+733,Pro,250.0,11.0,449,338.26,32,0,3,Asia,,8000
+734,Pro,100.0,22.0,165,207.02,4,0,3,North America,,400
+735,Enterprise,25.0,22.0,430,443.38,18,0,17,Europe,Paid Ads,450
+736,Basic,50.0,43.0,16,,5,0,8,North America,Paid Ads,250
+737,Enterprise,100.0,25.0,205,358.75,20,0,17,Asia,Partnership,2000
+738,Basic,10.0,22.0,430,441.37,23,0,13,Africa,Paid Ads,230
+739,Pro,10.0,28.0,65,367.0,11,0,14,Africa,Referral,110
+740,,100.0,29.0,330,350.15,37,1,5,Asia,,3700
+741,Pro,100.0,13.0,202,377.56,22,0,9,Africa,Referral,2200
+742,Pro,100.0,18.0,56,235.2,4,0,14,Asia,Organic,400
+743,Enterprise,10.0,2.0,157,437.71,29,0,3,Africa,Referral,290
+744,Basic,10.0,29.0,284,105.7,44,0,17,Africa,,440
+745,Basic,100.0,21.0,166,68.06,34,0,17,Africa,,3400
+746,Enterprise,250.0,15.0,211,146.33,13,1,16,Europe,Organic,3250
+747,Basic,250.0,52.0,453,,42,0,11,Europe,Paid Ads,10500
+748,Pro,,,411,257.73,9,1,6,,Referral,225
+749,Basic,50.0,50.0,485,411.2,42,0,15,,Organic,2100
+750,Pro,250.0,,428,205.26,31,0,10,Asia,Referral,7750
+751,Enterprise,,15.0,436,,7,0,13,North America,Partnership,70
+752,Basic,250.0,51.0,488,11.62,4,0,2,North America,Paid Ads,1000
+753,Enterprise,25.0,23.0,484,207.82,19,0,18,Europe,Organic,475
+754,Basic,25.0,24.0,135,325.65,42,0,17,North America,Partnership,1050
+755,Pro,50.0,44.0,404,12.68,30,1,9,North America,Referral,1500
+756,Enterprise,250.0,13.0,314,144.04,31,1,5,Africa,Partnership,7750
+757,Basic,10.0,22.0,378,107.94,35,0,12,Africa,Referral,350
+758,Pro,10.0,43.0,303,25.78,21,0,9,Asia,Paid Ads,210
+759,Enterprise,100.0,,73,242.23,31,0,17,North America,Partnership,3100
+760,,10.0,33.0,334,94.95,19,0,19,Asia,Paid Ads,190
+761,Basic,50.0,56.0,401,372.83,31,0,15,,Organic,1550
+762,Basic,50.0,3.0,427,424.72,32,0,5,North America,Referral,1600
+763,Basic,10.0,54.0,185,,2,0,12,Europe,Referral,20
+764,,,19.0,125,490.95,10,0,3,North America,Paid Ads,100
+765,Basic,100.0,23.0,449,227.99,2,0,13,Africa,,200
+766,Enterprise,10.0,29.0,213,259.12,2,0,0,North America,Organic,20
+767,Enterprise,,30.0,495,494.66,24,0,19,,Partnership,2400
+768,Basic,100.0,,330,119.62,17,0,4,Asia,Referral,1700
+769,Basic,10.0,44.0,40,471.56,32,0,7,Asia,Referral,320
+770,Enterprise,25.0,47.0,397,,16,0,11,,Organic,400
+771,Pro,25.0,25.0,122,225.96,16,0,1,Africa,Organic,400
+772,,100.0,37.0,374,39.65,46,0,11,Africa,,4600
+773,,10.0,,443,365.97,39,0,4,,Paid Ads,390
+774,Enterprise,25.0,8.0,334,306.16,31,0,4,Africa,Partnership,775
+775,Basic,10.0,42.0,423,354.78,43,0,12,North America,Organic,430
+776,Pro,10.0,58.0,385,190.37,24,0,8,Asia,,240
+777,,10.0,16.0,353,187.89,1,0,9,Europe,Organic,10
+778,,250.0,8.0,452,,11,0,0,Asia,Referral,2750
+779,Enterprise,10.0,1.0,76,178.22,21,0,2,North America,Organic,210
+780,Basic,250.0,44.0,84,465.0,4,0,17,North America,Organic,1000
+781,Basic,100.0,5.0,54,192.72,7,0,11,Africa,Referral,700
+782,Basic,25.0,3.0,269,416.53,26,1,2,,,650
+783,Pro,25.0,1.0,163,,47,0,8,Asia,,1175
+784,Pro,25.0,,164,189.75,12,1,1,Asia,Paid Ads,300
+785,Enterprise,25.0,40.0,439,317.83,31,0,2,Europe,Paid Ads,775
+786,Basic,25.0,,372,52.21,17,0,13,Africa,Partnership,425
+787,Basic,25.0,32.0,457,56.32,33,0,3,North America,Referral,825
+788,Pro,25.0,42.0,484,29.09,11,0,18,North America,Organic,275
+789,Basic,100.0,34.0,243,292.6,28,0,12,Africa,Partnership,2800
+790,Pro,10.0,43.0,60,215.91,32,0,6,North America,Paid Ads,320
+791,Basic,50.0,25.0,315,276.28,1,0,11,North America,Paid Ads,50
+792,Enterprise,250.0,10.0,271,,47,0,2,Africa,Partnership,11750
+793,Basic,50.0,21.0,324,,28,0,8,North America,Paid Ads,1400
+794,Basic,50.0,46.0,134,340.35,42,0,1,Asia,Partnership,2100
+795,Pro,10.0,39.0,408,380.46,7,0,8,Europe,Paid Ads,70
+796,Basic,10.0,27.0,254,12.24,2,0,11,Africa,,20
+797,Basic,10.0,27.0,39,107.58,42,0,11,,Organic,420
+798,Pro,25.0,2.0,435,358.05,24,1,14,North America,Organic,600
+799,,100.0,41.0,494,196.38,4,1,1,North America,Organic,400
+800,Enterprise,,48.0,131,332.93,44,0,17,Asia,Organic,1100
+801,Pro,100.0,13.0,134,176.75,19,0,12,Africa,Paid Ads,1900
+802,Pro,,9.0,46,198.42,26,1,13,North America,Referral,2600
+803,Pro,50.0,,179,83.55,11,0,4,,Partnership,550
+804,Pro,50.0,36.0,133,132.82,40,0,9,Africa,Referral,2000
+805,,100.0,22.0,366,304.68,43,1,11,,Paid Ads,4300
+806,Enterprise,100.0,42.0,44,219.42,11,0,9,,,1100
+807,Enterprise,25.0,26.0,96,388.28,45,0,10,Africa,Referral,1125
+808,Pro,25.0,58.0,143,427.03,3,0,1,Europe,Referral,75
+809,Basic,50.0,,205,,12,0,4,Asia,Paid Ads,600
+810,Pro,10.0,12.0,283,380.34,3,1,6,Africa,Paid Ads,30
+811,Basic,100.0,17.0,210,156.92,42,0,5,Europe,Partnership,4200
+812,Pro,25.0,14.0,378,210.41,27,0,2,North America,,675
+813,Pro,50.0,14.0,294,357.82,49,0,12,Africa,Organic,2450
+814,Enterprise,25.0,57.0,86,196.17,2,0,2,North America,Partnership,50
+815,Basic,100.0,34.0,68,296.31,49,0,5,,Referral,4900
+816,Basic,100.0,53.0,440,96.76,16,0,10,,Paid Ads,1600
+817,Enterprise,250.0,,135,301.89,2,1,16,Europe,Referral,500
+818,Enterprise,10.0,20.0,410,431.45,30,0,9,Europe,Organic,300
+819,Enterprise,250.0,11.0,118,434.98,20,0,11,Asia,Organic,5000
+820,,50.0,16.0,233,363.55,38,0,16,,Referral,1900
+821,Basic,,51.0,287,374.15,28,0,3,Asia,Organic,700
+822,Basic,50.0,31.0,77,281.17,25,1,1,Africa,Paid Ads,1250
+823,Pro,100.0,55.0,78,294.41,32,0,10,North America,Partnership,3200
+824,,250.0,6.0,174,71.16,10,0,6,Europe,,2500
+825,Enterprise,250.0,56.0,498,224.71,42,0,1,North America,Paid Ads,10500
+826,Enterprise,250.0,19.0,314,228.13,40,0,17,Europe,Paid Ads,10000
+827,Enterprise,50.0,37.0,406,479.46,33,0,3,Asia,Organic,1650
+828,Pro,100.0,58.0,171,218.39,13,0,7,Asia,Paid Ads,1300
+829,Pro,25.0,4.0,374,276.92,41,0,19,Europe,Referral,1025
+830,Pro,25.0,,351,268.96,42,1,13,Europe,Paid Ads,1050
+831,,50.0,4.0,318,320.2,47,0,11,Africa,Partnership,2350
+832,Pro,,20.0,388,375.38,37,1,17,Asia,,9250
+833,Pro,10.0,10.0,352,116.4,16,0,10,Asia,Paid Ads,160
+834,Pro,50.0,24.0,444,266.72,45,0,7,,Partnership,2250
+835,Enterprise,50.0,54.0,396,413.83,22,0,1,Asia,Paid Ads,1100
+836,,100.0,35.0,51,,20,0,14,Europe,Paid Ads,2000
+837,Enterprise,25.0,26.0,363,142.84,43,0,8,,Organic,1075
+838,Enterprise,50.0,37.0,425,329.08,27,0,18,North America,Referral,1350
+839,Pro,50.0,38.0,118,412.76,41,0,19,Asia,Organic,2050
+840,Basic,250.0,21.0,60,36.25,16,1,7,,,4000
+841,Pro,250.0,54.0,259,389.51,34,0,18,Europe,Partnership,8500
+842,Basic,10.0,40.0,350,411.72,32,0,4,North America,,320
+843,Enterprise,100.0,39.0,439,233.45,26,1,10,Europe,Partnership,2600
+844,Pro,10.0,21.0,392,491.74,25,0,14,Asia,Referral,250
+845,Enterprise,250.0,10.0,30,394.42,2,0,7,Asia,Referral,500
+846,Pro,25.0,38.0,309,387.96,12,0,18,North America,Referral,300
+847,,250.0,46.0,148,375.18,40,0,7,Asia,Partnership,10000
+848,Basic,100.0,4.0,368,79.55,9,0,18,Africa,Referral,900
+849,Basic,,57.0,333,112.53,12,1,17,Asia,Paid Ads,3000
+850,Basic,100.0,45.0,394,234.68,26,0,9,Asia,Organic,2600
+851,Pro,100.0,20.0,101,135.68,9,0,6,Asia,,900
+852,Basic,100.0,,456,210.54,10,0,8,Europe,Organic,1000
+853,Pro,100.0,55.0,289,444.79,32,0,0,Europe,Paid Ads,3200
+854,Basic,100.0,7.0,134,413.04,34,0,18,North America,Referral,3400
+855,Basic,25.0,4.0,492,316.87,48,0,4,North America,Organic,1200
+856,Pro,10.0,29.0,406,429.77,20,0,18,North America,Paid Ads,200
+857,,50.0,,120,392.97,39,0,0,Asia,Paid Ads,1950
+858,Basic,10.0,3.0,363,217.35,2,0,14,Europe,Organic,20
+859,Pro,100.0,24.0,148,104.53,1,0,15,Africa,Partnership,100
+860,Basic,25.0,37.0,493,259.53,36,0,6,,Organic,900
+861,Pro,250.0,16.0,444,369.43,24,0,11,Asia,Partnership,6000
+862,Enterprise,25.0,58.0,282,221.03,27,0,7,,Referral,675
+863,Enterprise,100.0,,108,335.05,2,1,4,Africa,Partnership,200
+864,Enterprise,25.0,52.0,261,51.69,31,0,9,North America,Referral,775
+865,Enterprise,25.0,4.0,347,375.26,14,0,4,Africa,Organic,350
+866,Enterprise,100.0,56.0,113,,2,0,16,North America,Referral,200
+867,Basic,,24.0,223,354.88,29,0,4,Africa,Paid Ads,725
+868,Enterprise,50.0,34.0,258,483.8,15,1,14,Europe,Referral,750
+869,Enterprise,50.0,30.0,161,414.19,12,0,12,Asia,Partnership,600
+870,Enterprise,25.0,18.0,259,452.03,37,1,0,Asia,,925
+871,Enterprise,250.0,19.0,284,467.12,28,0,10,Asia,Partnership,7000
+872,Pro,100.0,,174,401.67,20,0,0,North America,Referral,2000
+873,Basic,50.0,19.0,496,338.76,39,1,10,,Partnership,1950
+874,Enterprise,250.0,49.0,350,7.83,24,0,17,Europe,Partnership,6000
+875,Enterprise,25.0,46.0,17,235.58,21,0,17,Africa,Paid Ads,525
+876,,250.0,19.0,293,287.73,10,0,15,Asia,Referral,2500
+877,Basic,10.0,22.0,14,155.49,46,1,12,Europe,Paid Ads,460
+878,Pro,50.0,24.0,154,162.46,14,1,6,Europe,Partnership,700
+879,Basic,25.0,45.0,110,480.77,37,0,0,Asia,Partnership,925
+880,Pro,100.0,12.0,173,446.4,18,1,15,Africa,Partnership,1800
+881,Enterprise,,,383,425.34,24,0,0,Asia,Referral,600
+882,Enterprise,100.0,58.0,156,,14,0,16,Africa,Organic,1400
+883,Basic,25.0,,73,11.78,34,0,5,Europe,Partnership,850
+884,Basic,250.0,53.0,100,44.71,12,0,1,Europe,Partnership,3000
+885,Pro,250.0,31.0,126,159.54,22,0,16,Asia,Partnership,5500
+886,Pro,250.0,36.0,363,12.79,6,0,5,Europe,Partnership,1500
+887,,10.0,19.0,276,13.49,36,0,13,North America,Referral,360
+888,Pro,100.0,48.0,319,458.72,45,0,17,Europe,Organic,4500
+889,Basic,250.0,45.0,182,354.55,36,0,5,North America,Organic,9000
+890,,10.0,36.0,56,157.93,22,0,9,Europe,Organic,220
+891,Basic,100.0,,149,70.66,14,0,17,Asia,Partnership,1400
+892,Basic,25.0,55.0,255,258.26,16,0,8,Asia,Partnership,400
+893,Basic,,49.0,158,7.65,36,0,7,North America,Organic,360
+894,,50.0,55.0,255,,25,0,9,Asia,Organic,1250
+895,Pro,10.0,33.0,404,,32,1,16,Europe,Partnership,320
+896,Pro,10.0,18.0,496,204.16,33,0,5,Europe,Partnership,330
+897,Basic,100.0,52.0,485,198.34,45,0,13,,Paid Ads,4500
+898,Pro,25.0,49.0,14,39.32,36,1,5,Europe,Paid Ads,900
+899,Pro,50.0,59.0,474,320.97,20,0,6,Africa,Paid Ads,1000
+900,Basic,250.0,28.0,193,367.84,18,1,11,Africa,,4500
+901,Enterprise,250.0,59.0,29,339.68,38,0,2,Europe,Referral,9500
+902,Basic,10.0,,434,73.53,3,0,13,Asia,Partnership,30
+903,Pro,100.0,11.0,55,291.53,23,0,18,North America,Paid Ads,2300
+904,Basic,100.0,57.0,21,286.89,32,0,15,Asia,Referral,3200
+905,Enterprise,250.0,54.0,79,434.86,45,0,6,North America,Partnership,11250
+906,Basic,50.0,45.0,26,192.67,16,0,7,Asia,Referral,800
+907,Pro,25.0,,380,188.89,5,0,17,Europe,Organic,125
+908,Enterprise,50.0,,156,311.17,4,1,12,Africa,,200
+909,Pro,25.0,6.0,163,318.37,21,0,8,Asia,Organic,525
+910,Enterprise,250.0,4.0,313,237.3,40,0,9,North America,Paid Ads,10000
+911,Enterprise,25.0,20.0,117,224.31,14,0,8,Africa,Partnership,350
+912,Basic,100.0,48.0,245,249.6,39,0,14,,Organic,3900
+913,Basic,10.0,47.0,317,431.22,31,1,19,Europe,Paid Ads,310
+914,Pro,10.0,27.0,361,233.28,14,0,1,Africa,Paid Ads,140
+915,Basic,250.0,15.0,79,,6,0,12,North America,Paid Ads,1500
+916,Basic,100.0,,192,254.48,12,0,1,Asia,Paid Ads,1200
+917,Enterprise,50.0,47.0,259,474.85,16,0,18,Europe,Organic,800
+918,Basic,100.0,,237,417.25,17,1,1,Europe,Paid Ads,1700
+919,,10.0,11.0,111,184.4,45,0,2,Europe,Organic,450
+920,Enterprise,,39.0,84,432.5,23,0,5,Asia,,230
+921,Enterprise,100.0,9.0,426,,14,1,2,Asia,Paid Ads,1400
+922,Pro,100.0,26.0,455,462.9,7,1,9,,Organic,700
+923,,10.0,16.0,225,317.66,46,0,5,Asia,Partnership,460
+924,Pro,50.0,5.0,416,31.92,32,0,15,,Partnership,1600
+925,Enterprise,250.0,57.0,408,323.91,15,0,16,Europe,Referral,3750
+926,Pro,,52.0,420,487.25,44,0,18,Africa,Partnership,11000
+927,Pro,100.0,,212,39.55,17,1,2,North America,Organic,1700
+928,Basic,250.0,50.0,201,,41,0,17,Europe,,10250
+929,Pro,10.0,3.0,258,375.16,47,0,6,Europe,Partnership,470
+930,Pro,10.0,13.0,251,406.08,44,0,8,Africa,Paid Ads,440
+931,Enterprise,100.0,43.0,474,209.84,34,0,19,Europe,,3400
+932,Enterprise,100.0,49.0,188,106.06,5,0,11,Asia,Organic,500
+933,,100.0,30.0,446,25.96,45,0,4,,Paid Ads,4500
+934,Enterprise,50.0,54.0,471,291.96,27,0,2,Africa,Referral,1350
+935,Enterprise,,45.0,228,229.19,23,0,10,,Referral,5750
+936,Enterprise,100.0,,91,474.63,40,0,3,,,4000
+937,Pro,25.0,17.0,101,35.0,14,0,4,Asia,Partnership,350
+938,Enterprise,25.0,59.0,444,344.27,15,0,0,Europe,Paid Ads,375
+939,Enterprise,10.0,45.0,184,17.36,43,0,17,Europe,Organic,430
+940,Basic,250.0,51.0,248,89.86,33,0,11,Africa,Partnership,8250
+941,Pro,100.0,53.0,269,229.52,31,0,12,Europe,Referral,3100
+942,Pro,25.0,19.0,400,230.16,35,0,8,North America,Partnership,875
+943,Pro,250.0,42.0,374,344.42,17,0,1,Europe,Partnership,4250
+944,Enterprise,10.0,35.0,172,,28,0,4,Europe,Referral,280
+945,Enterprise,50.0,46.0,57,321.32,19,1,12,,Organic,950
+946,Enterprise,250.0,26.0,338,477.0,46,0,15,Europe,,11500
+947,Basic,250.0,51.0,337,,23,0,15,Asia,,5750
+948,Enterprise,50.0,5.0,125,294.33,32,1,2,Africa,Partnership,1600
+949,Basic,,29.0,438,417.73,40,0,3,Europe,,10000
+950,Pro,10.0,37.0,346,323.08,13,0,10,,Partnership,130
+951,,10.0,20.0,346,43.89,20,0,13,North America,Referral,200
+952,Basic,50.0,49.0,378,371.58,35,1,2,Africa,Organic,1750
+953,Basic,100.0,21.0,234,,5,0,15,Africa,Organic,500
+954,Enterprise,25.0,10.0,361,299.07,9,0,14,Europe,Referral,225
+955,Pro,100.0,5.0,337,352.81,29,0,9,Asia,Paid Ads,2900
+956,Pro,250.0,,156,37.93,6,1,8,Europe,Referral,1500
+957,Pro,,6.0,72,119.24,25,0,10,North America,,625
+958,Basic,50.0,26.0,303,458.26,31,0,15,Asia,Referral,1550
+959,Basic,50.0,4.0,332,310.08,22,0,9,Asia,Paid Ads,1100
+960,Basic,25.0,39.0,452,126.91,2,0,16,Asia,Organic,50
+961,Basic,10.0,39.0,334,346.89,45,0,18,Europe,Paid Ads,450
+962,Pro,25.0,50.0,22,300.4,5,0,1,North America,Referral,125
+963,Enterprise,,35.0,440,253.28,27,1,1,Africa,Partnership,6750
+964,,10.0,1.0,198,488.21,25,0,5,Europe,Referral,250
+965,,50.0,24.0,296,343.31,8,0,18,Africa,Paid Ads,400
+966,Pro,25.0,57.0,217,190.84,1,0,7,Asia,Referral,25
+967,Enterprise,100.0,36.0,123,401.04,20,0,2,Asia,Partnership,2000
+968,Enterprise,100.0,6.0,489,442.87,44,0,13,Europe,Paid Ads,4400
+969,Pro,250.0,41.0,31,66.98,23,0,15,North America,Referral,5750
+970,Pro,,54.0,358,104.27,32,0,0,Asia,Paid Ads,3200
+971,Enterprise,25.0,46.0,223,112.03,11,0,2,Africa,Paid Ads,275
+972,Basic,25.0,44.0,180,347.15,39,0,17,Africa,Organic,975
+973,Enterprise,100.0,57.0,332,303.5,47,1,8,Europe,Organic,4700
+974,Pro,25.0,31.0,63,311.4,24,1,5,,Paid Ads,600
+975,Basic,,20.0,403,470.68,11,0,0,North America,Referral,2750
+976,Basic,10.0,24.0,307,389.08,29,0,9,Asia,Referral,290
+977,Pro,250.0,25.0,329,68.33,26,0,5,Africa,,6500
+978,Pro,250.0,36.0,135,,16,1,11,Africa,Partnership,4000
+979,Pro,25.0,21.0,286,220.52,35,0,3,,Paid Ads,875
+980,,10.0,30.0,473,201.0,20,1,12,Europe,Paid Ads,200
+981,Enterprise,25.0,24.0,213,336.31,46,0,16,Africa,Partnership,1150
+982,Basic,50.0,44.0,203,446.49,3,1,7,Europe,,150
+983,Pro,25.0,42.0,178,156.5,1,1,19,Europe,Paid Ads,25
+984,Basic,25.0,30.0,161,278.18,47,1,2,Africa,,1175
+985,Basic,25.0,22.0,44,395.76,1,0,11,,Organic,25
+986,Basic,10.0,28.0,193,211.03,17,0,6,Europe,Paid Ads,170
+987,Basic,25.0,,295,,2,0,11,Africa,Partnership,50
+988,Pro,10.0,35.0,66,240.1,29,0,1,Europe,Referral,290
+989,Basic,100.0,55.0,231,32.34,20,0,13,Asia,Organic,2000
+990,Pro,50.0,28.0,312,471.48,6,0,4,North America,Referral,300
+991,Pro,10.0,14.0,172,,8,0,8,North America,Paid Ads,80
+992,Enterprise,100.0,56.0,28,222.04,29,0,10,Asia,Organic,2900
+993,Pro,10.0,10.0,379,267.29,48,0,4,Asia,Partnership,480
+994,Enterprise,10.0,16.0,273,492.73,33,0,2,Europe,Paid Ads,330
+995,Pro,50.0,16.0,291,87.18,3,1,16,Asia,Partnership,150
+996,Pro,250.0,54.0,122,,35,0,1,North America,Organic,8750
+997,Pro,250.0,31.0,497,9.31,5,0,0,Asia,Referral,1250
+998,Enterprise,10.0,42.0,336,82.01,27,0,6,Africa,Paid Ads,270
+999,Enterprise,25.0,25.0,39,107.6,44,1,13,Africa,Paid Ads,1100
+1000,Basic,100.0,,144,317.14,12,0,4,Europe,Partnership,1200
