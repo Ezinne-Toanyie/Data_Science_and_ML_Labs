@@ -1,7 +1,7 @@
 # Week 6 - Exploratory Data Analysis
-Program: Data Science & Machine Learning
+**Program**: Data Science & Machine Learning
 
-Lab: Exploratory Data Analysis(EDA)
+**Lab**: Exploratory Data Analysis(EDA)
 
 ## Objective
 
