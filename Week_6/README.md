@@ -118,7 +118,7 @@ A final `df.isnull().sum()` confirmed zero missing values remained.
 
 ## Data Visualization
 
-With the data cleaned, the real exploration began. Nine visualizations were developed, each designed to answer a specific business question.
+With the data cleaned, the real exploration began. Eight visualizations were developed, each designed to answer a specific business question.
 
 ---
 
